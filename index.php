@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <!-- <html lang="en" > -->
 
-<?php include './components/header.html'; ?>
+<?php include
+    './components/header.html';
+$currentPage = 'index';
+?>
+
 
 <body>
     <!-- Spinner Start -->
@@ -326,7 +330,16 @@
                                 <hr class="w-25">
                             </div>
                             <div class="service-text">
-                                <p class="text-white mb-0">
+                                <p class="d-lg-none smallFont text-white mb-0">
+                                    Out team of professionals put into consideration key elements such as workflow, storage,
+                                    safety, lighting & ventilation and durability just to summarize; to come up with commercial kitchen
+                                    designs that improve the efficiency and productivity while also maintaining an attractive setup for both
+                                    the customers and employees
+                                    <br> <br>
+                                    Let us create a floor plan and design that will fit right into your ideal kitchen.
+                                    Our designs ensure right utilisation of space, budget, setting and orientation.
+                                </p>
+                                <p class="d-none d-sm-block text-white mb-0">
                                     Out team of professionals put into consideration key elements such as workflow, storage,
                                     safety, lighting & ventilation and durability just to summarize; to come up with commercial kitchen
                                     designs that improve the efficiency and productivity while also maintaining an attractive setup for both
@@ -353,7 +366,23 @@
                                 <hr class="w-25">
                             </div>
                             <div class="service-text">
-                                <p class="text-white mb-0">
+                                <p class="d-lg-none smallFont text-white mb-0">
+                                    Some of our fabricated solutions include cooking ranges, deep fat fryers, gas
+                                    grills, heavy duty wash up sinks, drainage racks, storage shelves, worktop tables,
+                                    storage cabinets, service trolleys, electric bain marries, kitchen hood/extraction
+                                    system, wall mounted shelves.
+                                    <br><br>
+                                    Supplying and installing commercial kitchen equipment is a crucial step in setting
+                                    up a successful food service business. The equipment chosen must not only meet the
+                                    specific needs of the business, but also comply with local health and safety codes.
+                                    <br><br>
+                                    Once the equipment has been selected, the next step is installation. A professional
+                                    installation team will ensure that the equipment is installed correctly and safely,
+                                    and that it meets local codes and regulations. They will also provide training for
+                                    staff on how to operate and maintain the equipment.
+                                    <br><br>
+                                </p>
+                                <p class="d-none d-sm-block text-white mb-0">
                                     Some of our fabricated solutions include cooking ranges, deep fat fryers, gas
                                     grills, heavy duty wash up sinks, drainage racks, storage shelves, worktop tables,
                                     storage cabinets, service trolleys, electric bain marries, kitchen hood/extraction
@@ -387,7 +416,22 @@
                                 <hr class="w-25">
                             </div>
                             <div class="service-text">
-                                <p class="text-white mb-0">
+                                <p class="d-lg-none smallFont text-white mb-0">
+                                    Fabricating commercial kitchen solutions is the process of creating custom-made
+                                    equipment and fixtures for a commercial kitchen.
+                                    <br><br>
+                                    This can include things like
+                                    cooking ranges, deep fat fryers, gas grills, heavy duty wash up sinks, drainage
+                                    racks, storage shelves, worktop tables, storage cabinets, service trolleys, electric
+                                    bain marries, kitchen hood/extraction system, wall mounted shelves and even entire
+                                    kitchen islands
+                                    <br><br>
+                                    Fabricating commercial kitchen solutions can be a great way to create a functional
+                                    and efficient kitchen that is tailored to the specific needs of the business. It can
+                                    also be a cost-effective and visually appealing solution to improve the overall look
+                                    and feel of the kitchen
+                                </p>
+                                <p class="d-none d-sm-block text-white mb-0">
                                     Fabricating commercial kitchen solutions is the process of creating custom-made
                                     equipment and fixtures for a commercial kitchen.
                                     <br><br>
@@ -420,7 +464,17 @@
                                 <hr class="w-25">
                             </div>
                             <div class="service-text">
-                                <p class="text-white mb-0">
+                                <p class="d-lg-none smallFont text-white mb-0">
+                                    Running a commercial kitchen is no laughing matter, but keeping the equipment in tip-top
+                                    shape? That's another story! From deep fryers to ovens, and everything in between,
+                                    commercial kitchen equipment takes a beating every day. But just like your favorite
+                                    comedian, a little maintenance and TLC can go a long way in keeping things running
+                                    smoothly.
+                                    <br><br>
+                                    Don't be afraid to call in the professionals. We also do repairs on equipment we never installed.
+                                    You will always stay on top of schedule maintenance
+                                </p>
+                                <p class="d-none d-sm-block text-white mb-0">
                                     Running a commercial kitchen is no laughing matter, but keeping the equipment in tip-top
                                     shape? That's another story! From deep fryers to ovens, and everything in between,
                                     commercial kitchen equipment takes a beating every day. But just like your favorite

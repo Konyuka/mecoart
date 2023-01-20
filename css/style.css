@@ -53,13 +53,12 @@ h6,
     opacity: 1;
 }
 
-.menu-item {
-  color: black;
+.smallFont {
+    /* font-size: calc(100% + 0.01vw + 0.01vh) !important; */
+    font-size: 0.7rem !important;
 }
 
-.menu-item.selected {
-  color: blue;
-}
+
 
 
 /*** Button ***/

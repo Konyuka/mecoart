@@ -1,8 +1,3 @@
-<?php
-$currentPage = 'index';
-?>
-
-
 <!-- Topbar Start -->
 <div class="container-fluid bg-dark px-0">
     <div class="row g-0 d-none d-lg-flex">
@@ -36,10 +31,10 @@ $currentPage = 'index';
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div id="menu" class="navbar-nav ms-auto p-4 p-lg-0">
-            <a href="index.php" class=" <?php echo $currentPage === 'index' ? 'selected' : ''; ?> menu-item nav-item nav-link active">Home</a>
-            <a href="about.php" class="menu-item nav-item nav-link">About</a>
-            <a href="gallery.php" class="menu-item nav-item nav-link">Gallery</a>
-            <a href="contact.php" class="menu-item nav-item nav-link">Contact</a>
+            <a href="index.php" class=" <?php echo $currentPage === 'index' ? 'active' : ''; ?> nav-item nav-link">Home</a>
+            <a href="about.php" class=" <?php echo $currentPage === 'about' ? 'active' : ''; ?> nav-item nav-link">About</a>
+            <a href="gallery.php" class="<?php echo $currentPage === 'gallery' ? 'active' : ''; ?> menu-item nav-item nav-link">Gallery</a>
+            <a href="contact.php" class="<?php echo $currentPage === 'contact' ? 'active' : ''; ?> menu-item nav-item nav-link">Contact</a>
         </div>
         <a href="" class="btn btn-primary px-3 d-none d-lg-block">Get A Quote</a>
     </div>
