@@ -53,6 +53,14 @@ h6,
     opacity: 1;
 }
 
+.menu-item {
+  color: black;
+}
+
+.menu-item.selected {
+  color: blue;
+}
+
 
 /*** Button ***/
 .btn {
@@ -229,7 +237,7 @@ h6,
 }
 
 .page-header {
-    background: linear-gradient(to right, rgba(2, 36, 91, 1) 0%, rgba(2, 36, 91, 0) 100%), url(../img/call.jpg) center center no-repeat;
+    background: linear-gradient(to right, rgba(2, 36, 91, 1) 0%, rgba(2, 36, 91, 0) 100%), url(../img/bg.jpg) center center no-repeat;
     background-size: cover;
 }
 

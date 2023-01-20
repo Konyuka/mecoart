@@ -1,99 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<!-- <html lang="en" > -->
 
-<head>
-    <meta charset="utf-8">
-    <title>Meco Art Limited</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
-
-    <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
-
-    <!-- Google Web Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&family=Rubik:wght@500;600;700&display=swap"
-        rel="stylesheet">
-
-    <!-- Icon Font Stylesheet -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
-
-    <!-- Libraries Stylesheet -->
-    <link href="lib/animate/animate.min.css" rel="stylesheet">
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-
-    <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
-</head>
+<?php include './components/header.html'; ?>
 
 <body>
     <!-- Spinner Start -->
-    <div id="spinner"
-        class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;"></div>
     </div>
     <!-- Spinner End -->
 
 
-    <!-- Topbar Start -->
-    <div class="container-fluid bg-dark px-0">
-        <div class="row g-0 d-none d-lg-flex">
-            <div class="col-lg-6 ps-5 text-start">
-                <div class="h-100 d-inline-flex align-items-center text-white">
-                    <span>Follow Us:</span>
-                    <a class="btn btn-link text-light" href=""><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-link text-light" href=""><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-link text-light" href=""><i class="fab fa-linkedin-in"></i></a>
-                    <a class="btn btn-link text-light" href=""><i class="fab fa-instagram"></i></a>
-                </div>
-            </div>
-            <div class="col-lg-6 text-end">
-                <div class="h-100 topbar-right d-inline-flex align-items-center text-white py-2 px-5">
-                    <span class="fs-5 fw-bold me-2"><i class="fa fa-phone-alt me-2"></i>Call Us:</span>
-                    <span class="fs-5 fw-bold">+254 704 123 574</span>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Topbar End -->
-
-
-    <!-- Navbar Start -->
-    <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-0 pe-5">
-        <a href="index.html" class="navbar-brand ps-5 me-0">
-            <h1 class="text-white m-0">Meco Art</h1>
-        </a>
-        <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-            <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="index.html" class="nav-item nav-link active">Home</a>
-                <a href="about.html" class="nav-item nav-link">About</a>
-                <a href="service.html" class="nav-item nav-link">Gallery</a>
-                <!-- <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
-                    <div class="dropdown-menu bg-light m-0">
-                        <a href="project.html" class="dropdown-item">Projects</a>
-                        <a href="feature.html" class="dropdown-item">Features</a>
-                        <a href="team.html" class="dropdown-item">Our Team</a>
-                        <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                        <a href="404.html" class="dropdown-item">404 Page</a>
-                    </div>
-                </div> -->
-                <a href="contact.html" class="nav-item nav-link">Contact</a>
-            </div>
-            <a href="" class="btn btn-primary px-3 d-none d-lg-block">Get A Quote</a>
-        </div>
-    </nav>
-    <!-- Navbar End -->
+    <?php include './components/nav.php'; ?>
 
 
     <!-- Carousel Start -->
@@ -179,7 +97,7 @@
                         </div>
                     </div>
                     <p class="mb-4">
-                        We build trust with potential clients by being readily available for feedback on queries. 
+                        We build trust with potential clients by being readily available for feedback on queries.
                         We normally reply within an hour. Feel free to reach to us through phone or email as desired
                     </p>
                     <div class="row pt-2">
@@ -256,11 +174,8 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="position-relative me-lg-4">
                         <img class="img-fluid w-100" src="img/food.jpg" alt="">
-                        <span
-                            class="position-absolute top-50 start-100 translate-middle bg-white rounded-circle d-none d-lg-block"
-                            style="width: 120px; height: 120px;"></span>
-                        <button type="button" class="btn-play" data-bs-toggle="modal"
-                            data-src="https://www.youtube.com/embed/LM2OQdEHUgI" data-bs-target="#videoModal">
+                        <span class="position-absolute top-50 start-100 translate-middle bg-white rounded-circle d-none d-lg-block" style="width: 120px; height: 120px;"></span>
+                        <button type="button" class="btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/LM2OQdEHUgI" data-bs-target="#videoModal">
                             <span></span>
                         </button>
                     </div>
@@ -268,7 +183,7 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <p class="fw-medium text-uppercase text-primary mb-2">Why Choose Us?</p>
                     <h1 class="display-5 mb-4">A Few Reasons Why..</h1>
-                    
+
                     <div class="row gy-4">
                         <div class="col-12">
                             <div class="d-flex">
@@ -278,7 +193,7 @@
                                 <div class="ms-4">
                                     <h4>Quality</h4>
                                     <span>
-                                       We have high quality and durable equipment as we use the commercial grade materials during our build phase 
+                                        We have high quality and durable equipment as we use the commercial grade materials during our build phase
                                     </span>
                                 </div>
                             </div>
@@ -370,8 +285,7 @@
 
 
     <!-- Video Modal Start -->
-    <div class="modal modal-video fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel"
-        aria-hidden="true">
+    <div class="modal modal-video fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content rounded-0">
                 <div class="modal-header">
@@ -381,8 +295,7 @@
                 <div class="modal-body">
                     <!-- 16:9 aspect ratio -->
                     <div class="ratio ratio-16x9">
-                        <iframe class="embed-responsive-item" src="" id="video" allowfullscreen
-                            allowscriptaccess="always" allow="autoplay"></iframe>
+                        <iframe class="embed-responsive-item" src="" id="video" allowfullscreen allowscriptaccess="always" allow="autoplay"></iframe>
                     </div>
                 </div>
             </div>
@@ -401,7 +314,7 @@
             <div class="row gy-5 gx-4">
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item">
-                        
+
                         <img class="img-fluid" src="img/service-1.jpg" alt="">
                         <div class="service-img">
                             <img class="img-fluid" src="img/star.jpg" alt="">
@@ -415,9 +328,9 @@
                             <div class="service-text">
                                 <p class="text-white mb-0">
                                     Out team of professionals put into consideration key elements such as workflow, storage,
-                                    safety, lighting & ventilation and durability just to summarize; to come up with commercial kitchen 
+                                    safety, lighting & ventilation and durability just to summarize; to come up with commercial kitchen
                                     designs that improve the efficiency and productivity while also maintaining an attractive setup for both
-                                    the customers and employees  
+                                    the customers and employees
                                     <br> <br>
                                     Let us create a floor plan and design that will fit right into your ideal kitchen.
                                     Our designs ensure right utilisation of space, budget, setting and orientation.
@@ -508,14 +421,14 @@
                             </div>
                             <div class="service-text">
                                 <p class="text-white mb-0">
-                                Running a commercial kitchen is no laughing matter, but keeping the equipment in tip-top
-                                shape? That's another story! From deep fryers to ovens, and everything in between,
-                                commercial kitchen equipment takes a beating every day. But just like your favorite
-                                comedian, a little maintenance and TLC can go a long way in keeping things running
-                                smoothly.
-                                <br><br>
-                                Don't be afraid to call in the professionals. We also do repairs on equipment we never installed.
-                                You will always stay on top of schedule maintenance
+                                    Running a commercial kitchen is no laughing matter, but keeping the equipment in tip-top
+                                    shape? That's another story! From deep fryers to ovens, and everything in between,
+                                    commercial kitchen equipment takes a beating every day. But just like your favorite
+                                    comedian, a little maintenance and TLC can go a long way in keeping things running
+                                    smoothly.
+                                    <br><br>
+                                    Don't be afraid to call in the professionals. We also do repairs on equipment we never installed.
+                                    You will always stay on top of schedule maintenance
                                 </p>
                             </div>
                         </div>
@@ -526,56 +439,6 @@
         </div>
     </div>
     <!-- Service End -->
-
-
-    <!-- Project Start -->
-    <!-- <div class="container-fluid bg-dark pt-5 my-5 px-0">
-        <div class="text-center mx-auto mt-5 wow fadeIn" data-wow-delay="0.1s" style="max-width: 600px;">
-            <p class="fw-medium text-uppercase text-primary mb-2">The secret ingredient to your kitchen's success is our
-                products</p>
-            <h1 class="display-5 text-white mb-5">Our Products</h1>
-        </div>
-        <div class="owl-carousel project-carousel wow fadeIn" data-wow-delay="0.1s">
-            <a class="project-item" href="">
-                <img class="img-fluid" src="img/project-1.jpg" alt="">
-                <div class="project-title">
-                    <h5 class="text-primary mb-0">Commercial Ovens</h5>
-                </div>
-            </a>
-            <a class="project-item" href="">
-                <img class="img-fluid" src="img/project-2.jpg" alt="">
-                <div class="project-title">
-                    <h5 class="text-primary mb-0">Commercial Refrigeration Unit</h5>
-                </div>
-            </a>
-            <a class="project-item" href="">
-                <img class="img-fluid" src="img/project-3.jpg" alt="">
-                <div class="project-title">
-                    <h5 class="text-primary mb-0">Fryers, Griddles, and Ranges</h5>
-                </div>
-            </a>
-            <a class="project-item" href="">
-                <img class="img-fluid" src="img/project-4.jpg" alt="">
-                <div class="project-title">
-                    <h5 class="text-primary mb-0">Commercial Dishwasher</h5>
-                </div>
-            </a>
-            <a class="project-item" href="">
-                <img class="img-fluid" src="img/project-5.jpg" alt="">
-                <div class="project-title">
-                    <h5 class="text-primary mb-0">Mixers, Slicers, and Processors</h5>
-                </div>
-            </a>
-            <a class="project-item" href="">
-                <img class="img-fluid" src="img/project-6.jpg" alt="">
-                <div class="project-title">
-                    <h5 class="text-primary mb-0">Exhaust and Ventilation Equipment</h5>
-                </div>
-            </a>
-        </div>
-    </div> -->
-    <!-- Project End -->
-
 
     <!-- Team Start -->
     <div class="container-xxl py-5">
@@ -592,17 +455,13 @@
                             <div class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-share text-white"></i>
                             </div>
-                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4"
-                                style="height: 90px;">
+                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Sam Ceo</h5>
                                 <span class="text-primary">CEO & Founder</span>
                                 <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i
-                                            class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i
-                                            class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i
-                                            class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -615,17 +474,13 @@
                             <div class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-share text-white"></i>
                             </div>
-                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4"
-                                style="height: 90px;">
+                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Rob Otis</h5>
                                 <span class="text-primary">Project Manager</span>
                                 <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i
-                                            class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i
-                                            class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i
-                                            class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -638,17 +493,13 @@
                             <div class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-share text-white"></i>
                             </div>
-                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4"
-                                style="height: 90px;">
+                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Peter Odhis</h5>
                                 <span class="text-primary">Engineer</span>
                                 <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i
-                                            class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i
-                                            class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i
-                                            class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -731,75 +582,10 @@
     </div>
     <!-- Testimonial End -->
 
-
-    <!-- Footer Start -->
-    <div class="container-fluid bg-dark footer mt-5 py-5 wow fadeIn" data-wow-delay="0.1s">
-        <div class="container py-5">
-            <div class="row g-5">
-                <div class="col-lg-3 col-md-6">
-                    <h5 class="text-white mb-4">Our Office</h5>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Donholm-Caltex Behind Mates Hotel Nairobi, Kenya</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+254 704 123 574</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>sales@mecoartltd.co.ke</p>
-                    <div class="d-flex pt-3">
-                        <a class="btn btn-square btn-primary rounded-circle me-2" href=""><i
-                                class="fab fa-twitter"></i></a>
-                        <a class="btn btn-square btn-primary rounded-circle me-2" href=""><i
-                                class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-primary rounded-circle me-2" href=""><i
-                                class="fab fa-youtube"></i></a>
-                        <a class="btn btn-square btn-primary rounded-circle me-2" href=""><i
-                                class="fab fa-linkedin-in"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <h5 class="text-white mb-4">Quick Links</h5>
-                    <a class="btn btn-link" href="">About Us</a>
-                    <a class="btn btn-link" href="">Contact Us</a>
-                    <a class="btn btn-link" href="">Our Services</a>
-                    <a class="btn btn-link" href="">Terms & Condition</a>
-                    <a class="btn btn-link" href="">Support</a>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <h5 class="text-white mb-4">Business Hours</h5>
-                    <p class="mb-1">Monday - Friday</p>
-                    <h6 class="text-light">09:00 am - 07:00 pm</h6>
-                    <p class="mb-1">Saturday</p>
-                    <h6 class="text-light">09:00 am - 12:00 pm</h6>
-                    <p class="mb-1">Sunday</p>
-                    <h6 class="text-light">Closed</h6>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <h5 class="text-white mb-4">Newsletter</h5>
-                    <p>Join the Meco Art community and stay informed with our newslette</p>
-                    <div class="position-relative w-100">
-                        <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text"
-                            placeholder="Your email">
-                        <button type="button"
-                            class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Footer End -->
-
-
-    <!-- Copyright Start -->
-    <div class="container-fluid copyright bg-dark py-4">
-        <div class="container text-center">
-            <p class="mb-2">Copyright &copy; <a class="fw-semi-bold" href="#">Meco Art Limited</a> All Right Reserved.
-            </p>
-            <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-            <p class="mb-0">Designed By <a class="fw-semi-bold" href="mailto:michaelsaiba84@gmail.com">Michael Saiba</a> </p>
-        </div>
-    </div>
-    <!-- Copyright End -->
-
+    <?php include './components/footer.html'; ?>
 
     <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i
-            class="bi bi-arrow-up"></i></a>
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
 
 
     <!-- JavaScript Libraries -->
