@@ -88,7 +88,7 @@ $currentPage = 'index';
                     </p>
                     <div class="d-flex align-items-center mb-4">
                         <div class="flex-shrink-0 bg-primary p-4">
-                            <h1 class="display-2">10</h1>
+                            <h1 class="display-2">6</h1>
                             <h5 class="text-white">Years of</h5>
                             <h5 class="text-white">Experience</h5>
                         </div>
@@ -102,7 +102,7 @@ $currentPage = 'index';
                     </div>
                     <p class="mb-4">
                         We build trust with potential clients by being readily available for feedback on queries.
-                        We normally reply within an hour. Feel free to reach to us through phone or email as desired
+                        We normally reply immediately. Feel free to reach to us through phone or email as desired
                     </p>
                     <div class="row pt-2">
                         <div class="col-sm-6">
@@ -113,6 +113,7 @@ $currentPage = 'index';
                                 <div class="ms-3">
                                     <p class="mb-2">Email us</p>
                                     <h5 class="mb-0">sales@mecoartltd.co.ke</h5>
+                                    <h5 class="mb-0">info@mecoartltd.co.ke</h5>
                                 </div>
                             </div>
                         </div>
@@ -123,6 +124,7 @@ $currentPage = 'index';
                                 </div>
                                 <div class="ms-3">
                                     <p class="mb-2">Call us</p>
+                                    <h5 class="mb-0">+254 748 508 142</h5>
                                     <h5 class="mb-0">+254 704 123 574</h5>
                                 </div>
                             </div>
@@ -141,7 +143,7 @@ $currentPage = 'index';
             <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.1s">
                 <div class="text-center border p-5">
                     <i class="fa fa-certificate fa-3x text-white mb-3"></i>
-                    <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">10</h1>
+                    <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">6</h1>
                     <span class="fs-5 fw-semi-bold text-white">Years Experience</span>
                 </div>
             </div>
@@ -210,7 +212,7 @@ $currentPage = 'index';
                                 <div class="ms-4">
                                     <h4>Experience</h4>
                                     <span>
-                                        We have a 10 year expert experience in the field and can prove by awards and testimonals from our clients
+                                        We have a 6 year expert experience in the field and can prove by awards and testimonals from our clients
                                     </span>
                                 </div>
                             </div>
@@ -495,7 +497,7 @@ $currentPage = 'index';
     <!-- Service End -->
 
     <!-- Team Start -->
-    <div class="container-xxl py-5">
+    <!-- <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <p class="fw-medium text-uppercase text-primary mb-2">Our Team</p>
@@ -561,7 +563,7 @@ $currentPage = 'index';
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Team End -->
 
 
@@ -575,7 +577,8 @@ $currentPage = 'index';
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
                 <div class="testimonial-item text-center">
                     <div class="testimonial-img position-relative">
-                        <img class="img-fluid rounded-circle mx-auto mb-5" src="img/testimonial-1.jpg">
+                        <i class="fas fa-user"></i>
+                        <!-- <img class="img-fluid rounded-circle mx-auto mb-5" src="img/testimonial-1.jpg"> -->
                         <div class="btn-square bg-primary rounded-circle">
                             <i class="fa fa-quote-left text-white"></i>
                         </div>
@@ -595,7 +598,8 @@ $currentPage = 'index';
                 </div>
                 <div class="testimonial-item text-center">
                     <div class="testimonial-img position-relative">
-                        <img class="img-fluid rounded-circle mx-auto mb-5" src="img/testimonial-1.jpg">
+                        <i class="fas fa-user"></i>
+                        <!-- <img class="img-fluid rounded-circle mx-auto mb-5" src="img/testimonial-1.jpg"> -->
                         <div class="btn-square bg-primary rounded-circle">
                             <i class="fa fa-quote-left text-white"></i>
                         </div>
@@ -614,7 +618,8 @@ $currentPage = 'index';
                 </div>
                 <div class="testimonial-item text-center">
                     <div class="testimonial-img position-relative">
-                        <img class="img-fluid rounded-circle mx-auto mb-5" src="img/testimonial-1.jpg">
+                        <i class="fas fa-user"></i>
+                        <!-- <img class="img-fluid rounded-circle mx-auto mb-5" src="img/testimonial-1.jpg"> -->
                         <div class="btn-square bg-primary rounded-circle">
                             <i class="fa fa-quote-left text-white"></i>
                         </div>

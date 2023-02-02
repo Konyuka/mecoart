@@ -63,7 +63,7 @@ $currentPage = 'contact';
                             <i class="fa fa-map-marker-alt fa-2x text-primary"></i>
                         </div>
                         <h4 class="mb-3">Office Address</h4>
-                        <p class="mb-2">Donholm-Caltex Behind Mates Hotel</p>
+                        <p class="mb-2">Delpack business complex, Donholm, Nairobi, Kenya</p>
                         <a class="btn btn-primary px-4" href="https://goo.gl/maps/FsznshxgnULBGgkN9" target="blank">Direction <i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
