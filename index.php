@@ -23,7 +23,7 @@ $currentPage = 'index';
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="img/ck.jpg" alt="Image">
+                    <img class="w-100" src="img/4.png" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
@@ -38,7 +38,7 @@ $currentPage = 'index';
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="img/ck2.jpg" alt="Image">
+                    <img class="w-100" src="img/3.png" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
@@ -179,7 +179,7 @@ $currentPage = 'index';
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="position-relative me-lg-4">
-                        <img class="img-fluid w-100" src="img/food.jpg" alt="">
+                        <img class="img-fluid w-100" src="img/falling3.png" alt="">
                         <span class="position-absolute top-50 start-100 translate-middle bg-white rounded-circle d-none d-lg-block" style="width: 120px; height: 120px;"></span>
                         <button type="button" class="btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/LM2OQdEHUgI" data-bs-target="#videoModal">
                             <span></span>
@@ -612,7 +612,7 @@ $currentPage = 'index';
                             huge difference in the efficiency and quality of our food. We highly recommend their
                             services to anyone in the food industry looking for a kitchen upgrade
                         </p>
-                        <h5 class="mb-1">Lynn Kimeto</h5>
+                        <h5 class="mb-1">Isaiah Mbugua</h5>
                         <span class="fst-italic">CEO, Imaginative Brands</span>
                     </div>
                 </div>
@@ -632,7 +632,7 @@ $currentPage = 'index';
                             kitchen is now a joy to work in and has significantly increased our production and quality.
                             We highly recommend them
                         </p>
-                        <h5 class="mb-1">Mark Massai</h5>
+                        <h5 class="mb-1">Mark Siele</h5>
                         <span class="fst-italic">Manager, Elkana Resorts</span>
                     </div>
                 </div>

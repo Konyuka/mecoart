@@ -38,7 +38,7 @@ $currentPage = 'about';
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="position-relative me-lg-4">
-                        <img class="img-fluid w-100" src="img/equip.jpg" alt="">
+                        <img class="img-fluid w-100" src="img/falling4.png" alt="">
                         <span class="position-absolute top-50 start-100 translate-middle bg-white rounded-circle d-none d-lg-block" style="width: 120px; height: 120px;"></span>
                         <button type="button" class="btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
                             <span></span>
@@ -51,19 +51,19 @@ $currentPage = 'about';
                     </p>
                     <h1 class="display-5 mb-4">Meco Art Limited</h1>
                     <p class="mb-4">
-                        "Welcome to [Company Name], your one-stop shop for all your commercial kitchen equipment needs. We have been in the industry for [X] years and have built a reputation for providing top-quality equipment at competitive prices.
+                        "Welcome to Meco Art Limited, your one-stop shop for all your commercial kitchen equipment needs. We have been in the industry for 6 years and have built a reputation for providing top-quality equipment at competitive prices.
 
                         Our mission is to provide our customers with the best equipment and service, so they can focus on what they do best - creating delicious food. We understand that every kitchen is different, and we strive to offer a wide range of products to meet the unique needs of our customers.
 
-                        We are a team of experienced industry professionals with a passion for food and a deep understanding of the equipment that goes into a successful kitchen. Our founders, [Name] and [Name], have over [X] years of experience in the industry and have built a team of experts who share their passion.
+                        We are a team of experienced industry professionals with a passion for food and a deep understanding of the equipment that goes into a successful kitchen. Our founders have over 6 years of experience in the industry and have built a team of experts who share their passion.
 
                         We offer a wide range of products, including cookers, ovens, refrigeration, and more. Our equipment is energy-efficient, durable and easy to clean, ensuring that your kitchen runs smoothly and efficiently.
 
-                        We are proud to be a [brand name] authorized dealer, and our equipment is certified by [Certification body name] for quality and safety. We also partner with other industry-leading brands to offer our customers the best selection of equipment.
+                        We are proud to be a authorized dealer, and our equipment is certified for quality and safety. We also partner with other industry-leading brands to offer our customers the best selection of equipment.
 
                         If you have any questions or need help selecting the right equipment for your kitchen, please don't hesitate to contact us. Our team is here to help, and we would be happy to answer any questions you may have.
 
-                        Thank you for choosing [Company Name]. We look forward to working with you to equip your kitchen for success."
+                        Thank you for choosing Meco Art Limited. We look forward to working with you to equip your kitchen for success."
 
                         Note : above sample is a fictional one, please make sure to use your own information and details.
                     </p>
