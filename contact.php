@@ -70,7 +70,8 @@ $currentPage = 'contact';
             </div>
             <div class="row mb-5">
                 <div class="col-12 wow fadeInUp" data-wow-delay="0.1s">
-                    <iframe class="w-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d437.410764117607!2d36.88873578329387!3d-1.3035721055105862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f13edf8c44a51%3A0xc3c080dc7f67cbe1!2sMates%20Hotel!5e0!3m2!1sen!2ske!4v1674116509994!5m2!1sen!2ske" frameborder="0" style="min-height: 450px; border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    <iframe class="w-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d987.6422155673256!2d36.89012229900062!3d-1.3039761949240896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f13faee2cb4b1%3A0x2f16a2d90d9bf165!2sPentecostal%20apostolic%20church!5e0!3m2!1sen!2ske!4v1675927069909!5m2!1sen!2ske" frameborder="0" style="min-height: 450px; border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d987.6422155673256!2d36.89012229900062!3d-1.3039761949240896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f13faee2cb4b1%3A0x2f16a2d90d9bf165!2sPentecostal%20apostolic%20church!5e0!3m2!1sen!2ske!4v1675927069909!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
                     <!-- <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d437.410764117607!2d36.88873578329387!3d-1.3035721055105862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f13edf8c44a51%3A0xc3c080dc7f67cbe1!2sMates%20Hotel!5e0!3m2!1sen!2ske!4v1674116509994!5m2!1sen!2ske"
                             width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"

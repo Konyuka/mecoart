@@ -40,7 +40,7 @@ $currentPage = 'about';
                     <div class="position-relative me-lg-4">
                         <img class="img-fluid w-100" src="img/falling4.png" alt="">
                         <span class="position-absolute top-50 start-100 translate-middle bg-white rounded-circle d-none d-lg-block" style="width: 120px; height: 120px;"></span>
-                        <button type="button" class="btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
+                        <button type="button" class="btn-play" data-bs-toggle="modal" data-src="#" data-bs-target="#videoModal">
                             <span></span>
                         </button>
                     </div>
