@@ -6,6 +6,8 @@
 $currentPage = 'index';
 ?>
 
+<!-- add -->
+
 
 <body>
     <!-- Spinner Start -->
