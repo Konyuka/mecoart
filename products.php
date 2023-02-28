@@ -26,13 +26,14 @@ $currentPage = 'products';
             </div>
 
             <div class="row g-4">
+
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
                         <img class="img-fluid" src="img/cookingranges.png" alt="">
                         <div class="d-flex">
-                            <a href="" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                            <button data-bs-toggle="modal" data-bs-target="#cookingRanges" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
-                            </a>
+                            </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Cooking Ranges</h5>
                                 <div class="team-social">
@@ -44,15 +45,16 @@ $currentPage = 'products';
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <img class="img-fluid" src="img/dishwashersink.png" alt="">
                         <div class="d-flex">
-                            <div class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                            <button data-bs-toggle="modal" data-bs-target="#washArea" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
-                            </div>
+                            </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
-                                <h5>Dishwasher Sinks</h5>
+                                <h5>Wash Area</h5>
                                 <div class="team-social">
                                     <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                                     <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
@@ -62,33 +64,16 @@ $currentPage = 'products';
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item">
-                        <img class="img-fluid" src="img/fryer.png" alt="">
-                        <div class="d-flex">
-                            <div class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
-                                <i class="fa fa-2x fa-eye text-white"></i>
-                            </div>
-                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
-                                <h5>Fryers</h5>
-                                <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <img class="img-fluid" src="img/preptables.png" alt="">
                         <div class="d-flex">
-                            <div class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                            <button data-bs-toggle="modal" data-bs-target="#tables" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
-                            </div>
+                            </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
-                                <h5>Work/Prep Tables</h5>
+                                <h5>Worktop Tables</h5>
                                 <div class="team-social">
                                     <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                                     <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
@@ -98,13 +83,14 @@ $currentPage = 'products';
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item">
                         <img class="img-fluid" src="img/shelves.png" alt="">
                         <div class="d-flex">
-                            <div class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                            <button data-bs-toggle="modal" data-bs-target="#storage" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
-                            </div>
+                            </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Storage Racks and Shelves</h5>
                                 <div class="team-social">
@@ -116,15 +102,16 @@ $currentPage = 'products';
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
                         <img class="img-fluid" src="img/extraction.png" alt="">
                         <div class="d-flex">
-                            <div class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                            <button data-bs-toggle="modal" data-bs-target="#service" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
-                            </div>
+                            </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
-                                <h5>Extarction Systems</h5>
+                                <h5>Service Area</h5>
                                 <div class="team-social">
                                     <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                                     <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
@@ -134,13 +121,33 @@ $currentPage = 'products';
                         </div>
                     </div>
                 </div>
+
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item">
+                        <img class="img-fluid" src="img/extraction.png" alt="">
+                        <div class="d-flex">
+                            <button data-bs-toggle="modal" data-bs-target="#hood" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                                <i class="fa fa-2x fa-eye text-white"></i>
+                            </button>
+                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
+                                <h5>Extraction Hood</h5>
+                                <div class="team-social">
+                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
                         <img class="img-fluid" src="img/bakery.png" alt="">
                         <div class="d-flex">
-                            <div class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                            <button data-bs-toggle="modal" data-bs-target="#cookingRanges" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
-                            </div>
+                            </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Bakery Equipment</h5>
                                 <div class="team-social">
@@ -152,13 +159,14 @@ $currentPage = 'products';
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
                         <img class="img-fluid" src="img/railing.png" alt="">
                         <div class="d-flex">
-                            <div class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                            <button data-bs-toggle="modal" data-bs-target="#cookingRanges" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
-                            </div>
+                            </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>
                                     Stainless Steel <br>
@@ -174,13 +182,14 @@ $currentPage = 'products';
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
                         <img class="img-fluid" src="img/lpg.png" alt="">
                         <div class="d-flex">
-                            <div class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                            <button data-bs-toggle="modal" data-bs-target="#gas" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
-                            </div>
+                            </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Gas Installation <br> LPG Lines </h5>
                                 <div class="team-social">
@@ -192,15 +201,16 @@ $currentPage = 'products';
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/extraction.png" alt="">
+                        <img class="img-fluid" src="img/fryer.png" alt="">
                         <div class="d-flex">
-                            <div class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                            <button data-bs-toggle="modal" data-bs-target="#storage" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
-                            </div>
+                            </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
-                                <h5>Extarction Systems</h5>
+                                <h5>Fryers</h5>
                                 <div class="team-social">
                                     <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                                     <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
@@ -209,29 +219,530 @@ $currentPage = 'products';
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div>
+                
+            </div>
+           
+
+            <!-- Cooking Ranges -->
+            <div class="modal" id="cookingRanges">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h3 class="modal-title">Cooking Ranges</h3>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        Our cooking ranges comes in various sizes and designs it could be separated unit or combined. <br> 
+                        If combined one unit can comprise of burners, fryers, hot plate and ovens. <br> <br>
+                        A combined cooking unit can either be wall type or island type depending on kitchen set up and space available.
+                        our Gas burners comes in two types:
+                         - high pressure burner for bulk and quick cooking/boiling
+                         - Low pressure burner for slow cooking
+                         - each burner is connected to adjustable control tap (Italian tap) <br> <br>
+
+                         <h6>HOT PLATE</h3>
+                        -Hot plate is gas enabled it can either be flat surfaced, half grooved or fully grooved <br><br>
+                        <h6>FRYERS</h6>
+                        -Our fryers are electric with 3kwts-12kwts and an oil capacity of 10ltrs -20ltrs.
+
+                        <hr>
+
+                        <div class="mt-5">
+                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                    
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- Wash Area -->
+            <div class="modal" id="washArea">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h3 class="modal-title">Wash Area</h3>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        A wash area set up would include; dirty cutlery receiving table with dumping chute, wash sinks and plates drying racks.
+                        Wash sinks could either be single basin sink, double basin sink and triple basin sink.
+                        plate racks can either be flat board, puff orated board or slatted.
+
+
+                        <div class="mt-5">
+                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                    
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- Storage -->
+            <div class="modal" id="storage">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h3 class="modal-title">Storage Racks & Shelves</h3>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        The shelves come in two types: <br> <br> <br>
+
+                        a) stand-alone shelves/ racks with either 4 tier or 5 tier shelving compartments. The shelves can either be flat board or puff orated board with stand dimension(1100x500x8500) <br> <br>
+                        b) wall mounted shelves
+
+                        <hr>
+
+                        <div class="mt-5">
+                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                    
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- Tables -->
+            <div class="modal" id="tables">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h3 class="modal-title">Worktop Tables</h3>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                       Worktop tables are of different types with a standard height of 850mm that is: <br><br><br> 
+                       
+                        a) stand-alone worktop tables with one under shelves and 100mm back splash. <br><br>
+                        b) worktop table with two under shelves and 100mm back splash. <br><br>
+                        c) worktop table island type with two under shelves and two over shelves. <br><br>
+
+                        <hr>
+
+                        <div class="mt-5">
+                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                    
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- Cooking Ranges -->
+            <div class="modal" id="cookingRanges">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h3 class="modal-title">Cooking Ranges</h3>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        Our cooking ranges comes in various sizes and designs it could be separated unit or combined. <br> 
+                        If combined one unit can comprise of burners, fryers, hot plate and ovens. <br> <br>
+                        A combined cooking unit can either be wall type or island type depending on kitchen set up and space available.
+                        our Gas burners comes in two types:
+                         - high pressure burner for bulk and quick cooking/boiling
+                         - Low pressure burner for slow cooking
+                         - each burner is connected to adjustable control tap (Italian tap) <br> <br>
+
+                         <h6>HOT PLATE</h3>
+                        -Hot plate is gas enabled it can either be flat surfaced, half grooved or fully grooved <br><br>
+                        <h6>FRYERS</h6>
+                        -Our fryers are electric with 3kwts-12kwts and an oil capacity of 10ltrs -20ltrs.
+
+                        <hr>
+
+                        <div class="mt-5">
+                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                    
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- Cooking Ranges -->
+            <div class="modal" id="cookingRanges">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h3 class="modal-title">Cooking Ranges</h3>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        Our cooking ranges comes in various sizes and designs it could be separated unit or combined. <br> 
+                        If combined one unit can comprise of burners, fryers, hot plate and ovens. <br> <br>
+                        A combined cooking unit can either be wall type or island type depending on kitchen set up and space available.
+                        our Gas burners comes in two types:
+                         - high pressure burner for bulk and quick cooking/boiling
+                         - Low pressure burner for slow cooking
+                         - each burner is connected to adjustable control tap (Italian tap) <br> <br>
+
+                         <h6>HOT PLATE</h3>
+                        -Hot plate is gas enabled it can either be flat surfaced, half grooved or fully grooved <br><br>
+                        <h6>FRYERS</h6>
+                        -Our fryers are electric with 3kwts-12kwts and an oil capacity of 10ltrs -20ltrs.
+
+                        <hr>
+
+                        <div class="mt-5">
+                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                    
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- Service Area -->
+            <div class="modal" id="service">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h3 class="modal-title">Service Area</h3>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        Service area would basically include: <br><br><br>
+                        
+                        a) electric Bain Marie could either have 3 full inserts ,4 inserts,5 inserts or 6 full inserts fitted with 8mm thick sneeze guard glass with (150mm deep) capacity. <br> <br>
+                        b) Food trolley with caster wheels 3 tier. <br> <br>
+                        c) Hot pass cabinet
+
+
+                        <hr>
+
+                        <div class="mt-5">
+                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                    
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- Extraction -->
+            <div class="modal" id="hood">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h3 class="modal-title">Extraction Hood</h3>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        Extraction hood is a ventilation system used in commercial kitchens to remove heat, smoke and steam generated during cooking/boiling. Extraction hood comes in different sizes and types depending on cooking place, size of equipment used in the kitchen and generally kitchen arrangements. The hoods can either be wall mounted type or island/ central type. <br> <br>
+                        Extraction hood consist of the canopy that usually hang above the cooking area, removable oil /grease filters that are fixed inside the canopy, the duct pipes that channels the fumes collected by the canopy out of the kitchen the extraction fan is installed along the duct work the fan, when turned on generates negative pressure that facilitates the pulling out of the fumes collected by the canopy. <br> <br>
+                        Extraction hoods are essential for maintaining safe and comfortable working environment for kitchen staff, as well as preventing the buildup of gases and reducing risk of fires.
+
+
+                        <hr>
+
+                        <div class="mt-5">
+                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                    
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- Gas -->
+            <div class="modal" id="gas">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h3 class="modal-title">Cooking Ranges</h3>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        The gas cylinders should not be kept in an enclosed room neither near cooking area therefor it’s advisable to build a gas cage outside the kitchen and do the pipe work from the cage into the kitchen and up to the cooking area. <br>
+                        A gas line can be installed with either; <br> <br>
+
+                        a) Copper pipe <br>
+                        b) PE pipe <br>
+                        c) Schedule 40 seamless pipe <br> <br> <br>
+
+                        A complete gas line should include:  <br> <br>
+
+                        1 leak proof gas piping <br>
+                        2 leakage detector <br>
+                        3 shutt off valves <br>
+                        4 quarter turn shut off valve <br>
+                        5 manifold <br>
+                        6 applicable gas regulators
+
+
+                        <hr>
+
+                        <div class="mt-5">
+                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                    
+
+
+                    </div>
+                </div>
             </div>
 
 
         </div>
 
-        <div class="modal" tabindex="-1">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Modal title</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <p>Modal body text goes here.</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
-    </div>
-  </div>
-</div>
+        
     </div>
     <!-- Team End -->
 
