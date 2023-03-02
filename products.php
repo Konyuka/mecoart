@@ -145,7 +145,7 @@ $currentPage = 'products';
                     <div class="team-item">
                         <img class="img-fluid" src="img/bakery.png" alt="">
                         <div class="d-flex">
-                            <button data-bs-toggle="modal" data-bs-target="#cookingRanges" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                            <button  type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
@@ -164,7 +164,7 @@ $currentPage = 'products';
                     <div class="team-item">
                         <img class="img-fluid" src="img/railing.png" alt="">
                         <div class="d-flex">
-                            <button data-bs-toggle="modal" data-bs-target="#cookingRanges" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                            <button data-bs-toggle="modal" data-bs-target="#grating" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
@@ -202,7 +202,7 @@ $currentPage = 'products';
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                <!-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item">
                         <img class="img-fluid" src="img/fryer.png" alt="">
                         <div class="d-flex">
@@ -219,7 +219,7 @@ $currentPage = 'products';
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 
             </div>
            
@@ -674,34 +674,24 @@ $currentPage = 'products';
                 </div>
             </div>
             <!-- Gas -->
-            <div class="modal" id="gas">
+            <div class="modal" id="grating">
                 <div class="modal-dialog">
                     <div class="modal-content">
 
                     <!-- Modal Header -->
                     <div class="modal-header">
-                        <h3 class="modal-title">Cooking Ranges</h3>
+                        <h3 class="modal-title">
+                            Stainless Steel Railing &
+                            Floor Grating</h3>
                         <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
                     </div>
 
                     <!-- Modal body -->
                     <div class="modal-body">
-                        The gas cylinders should not be kept in an enclosed room neither near cooking area therefor it’s advisable to build a gas cage outside the kitchen and do the pipe work from the cage into the kitchen and up to the cooking area. <br>
-                        A gas line can be installed with either; <br> <br>
+                        Our floor gratings are stainless steel made. They are versatile, durable and aesthetics. Gratings are easily customized into various sizes, thicknesses and spacing’s. stainless steel gratings are excellent choice in areas where corrosion and rusting are of concern.
 
-                        a) Copper pipe <br>
-                        b) PE pipe <br>
-                        c) Schedule 40 seamless pipe <br> <br> <br>
-
-                        A complete gas line should include:  <br> <br>
-
-                        1 leak proof gas piping <br>
-                        2 leakage detector <br>
-                        3 shutt off valves <br>
-                        4 quarter turn shut off valve <br>
-                        5 manifold <br>
-                        6 applicable gas regulators
-
+                        <h6 class="mt-5">Wall Cladding</h6>  
+                        We design and install high quality wall cladding suitable for food processing. For ease of operation stainless steel wall cladding is the best since its more hygienic.   
 
                         <hr>
 
