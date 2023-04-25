@@ -29,18 +29,13 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/cookingranges.png" alt="">
+                        <img class="img-fluid" src="img/cookingrange.jpg" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#cookingRanges" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Cooking Ranges</h5>
-                                <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -48,18 +43,13 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/dishwashersink.png" alt="">
+                        <img class="img-fluid" src="img/dishwasher.png" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#washArea" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Wash Area</h5>
-                                <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -74,11 +64,6 @@ $currentPage = 'products';
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Worktop Tables</h5>
-                                <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -93,11 +78,6 @@ $currentPage = 'products';
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Storage Racks and Shelves</h5>
-                                <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -105,18 +85,13 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/extraction.png" alt="">
+                        <img class="img-fluid" src="img/service.webp" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#service" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Service Area</h5>
-                                <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -124,18 +99,13 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/extraction.png" alt="">
+                        <img class="img-fluid" src="img/hood.jpg" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#hood" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Extraction Hood</h5>
-                                <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -143,18 +113,13 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/bakery.png" alt="">
+                        <img class="img-fluid" src="img/bake.jpg" alt="">
                         <div class="d-flex">
                             <button  type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Bakery Equipment</h5>
-                                <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -162,22 +127,32 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/railing.png" alt="">
+                        <img class="img-fluid" src="img/rails.webp" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#grating" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>
-                                    Stainless Steel <br>
-                                    Railing &
+                                    Stainless Steel
+                                    Railing
+                                </h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item">
+                        <img class="img-fluid" src="img/grates.jpg" alt="">
+                        <div class="d-flex">
+                            <button data-bs-toggle="modal" data-bs-target="#grating" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                                <i class="fa fa-2x fa-eye text-white"></i>
+                            </button>
+                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
+                                <h5>
                                     Floor Grating
                                 </h5>
-                                <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -192,35 +167,10 @@ $currentPage = 'products';
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Gas Installation <br> LPG Lines </h5>
-                                <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <!-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item">
-                        <img class="img-fluid" src="img/fryer.png" alt="">
-                        <div class="d-flex">
-                            <button data-bs-toggle="modal" data-bs-target="#storage" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
-                                <i class="fa fa-2x fa-eye text-white"></i>
-                            </button>
-                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
-                                <h5>Fryers</h5>
-                                <div class="team-social">
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-dark rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-                
             </div>
            
 
@@ -252,7 +202,7 @@ $currentPage = 'products';
 
                         <hr>
 
-                        <div class="mt-5">
+                        <!-- <div class="mt-5">
                             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
@@ -274,7 +224,7 @@ $currentPage = 'products';
                                 <span class="visually-hidden">Next</span>
                             </button>
                             </div>
-                        </div>
+                        </div> -->
 
 
                     </div>
@@ -302,30 +252,6 @@ $currentPage = 'products';
                         Wash sinks could either be single basin sink, double basin sink and triple basin sink.
                         plate racks can either be flat board, puff orated board or slatted.
 
-
-                        <div class="mt-5">
-                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
-                                </div>
-                            </div>
-                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Previous</span>
-                            </button>
-                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Next</span>
-                            </button>
-                            </div>
-                        </div>
 
 
                     </div>
@@ -356,29 +282,6 @@ $currentPage = 'products';
 
                         <hr>
 
-                        <div class="mt-5">
-                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
-                                </div>
-                            </div>
-                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Previous</span>
-                            </button>
-                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Next</span>
-                            </button>
-                            </div>
-                        </div>
 
 
                     </div>
@@ -410,29 +313,42 @@ $currentPage = 'products';
 
                         <hr>
 
-                        <div class="mt-5">
-                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
-                                </div>
-                            </div>
-                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Previous</span>
-                            </button>
-                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Next</span>
-                            </button>
-                            </div>
-                        </div>
+                    
+                    </div>
+
+                    
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- Cooking Ranges -->
+            <div class="modal" id="cookingRanges">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h3 class="modal-title">Cooking Ranges</h3>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        Our cooking ranges comes in various sizes and designs it could be separated unit or combined. <br> 
+                        If combined one unit can comprise of burners, fryers, hot plate and ovens. <br> <br>
+                        A combined cooking unit can either be wall type or island type depending on kitchen set up and space available.
+                        our Gas burners comes in two types:
+                         - high pressure burner for bulk and quick cooking/boiling
+                         - Low pressure burner for slow cooking
+                         - each burner is connected to adjustable control tap (Italian tap) <br> <br>
+
+                         <h6>HOT PLATE</h3>
+                        -Hot plate is gas enabled it can either be flat surfaced, half grooved or fully grooved <br><br>
+                        <h6>FRYERS</h6>
+                        -Our fryers are electric with 3kwts-12kwts and an oil capacity of 10ltrs -20ltrs.
+
+                        <hr>
 
 
                     </div>
@@ -470,91 +386,6 @@ $currentPage = 'products';
                         -Our fryers are electric with 3kwts-12kwts and an oil capacity of 10ltrs -20ltrs.
 
                         <hr>
-
-                        <div class="mt-5">
-                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
-                                </div>
-                            </div>
-                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Previous</span>
-                            </button>
-                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Next</span>
-                            </button>
-                            </div>
-                        </div>
-
-
-                    </div>
-
-                    
-
-
-                    </div>
-                </div>
-            </div>
-            <!-- Cooking Ranges -->
-            <div class="modal" id="cookingRanges">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-
-                    <!-- Modal Header -->
-                    <div class="modal-header">
-                        <h3 class="modal-title">Cooking Ranges</h3>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-                    </div>
-
-                    <!-- Modal body -->
-                    <div class="modal-body">
-                        Our cooking ranges comes in various sizes and designs it could be separated unit or combined. <br> 
-                        If combined one unit can comprise of burners, fryers, hot plate and ovens. <br> <br>
-                        A combined cooking unit can either be wall type or island type depending on kitchen set up and space available.
-                        our Gas burners comes in two types:
-                         - high pressure burner for bulk and quick cooking/boiling
-                         - Low pressure burner for slow cooking
-                         - each burner is connected to adjustable control tap (Italian tap) <br> <br>
-
-                         <h6>HOT PLATE</h3>
-                        -Hot plate is gas enabled it can either be flat surfaced, half grooved or fully grooved <br><br>
-                        <h6>FRYERS</h6>
-                        -Our fryers are electric with 3kwts-12kwts and an oil capacity of 10ltrs -20ltrs.
-
-                        <hr>
-
-                        <div class="mt-5">
-                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
-                                </div>
-                            </div>
-                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Previous</span>
-                            </button>
-                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Next</span>
-                            </button>
-                            </div>
-                        </div>
 
 
                     </div>
@@ -587,30 +418,6 @@ $currentPage = 'products';
 
                         <hr>
 
-                        <div class="mt-5">
-                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
-                                </div>
-                            </div>
-                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Previous</span>
-                            </button>
-                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Next</span>
-                            </button>
-                            </div>
-                        </div>
-
 
                     </div>
 
@@ -639,30 +446,6 @@ $currentPage = 'products';
 
 
                         <hr>
-
-                        <div class="mt-5">
-                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
-                                </div>
-                            </div>
-                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Previous</span>
-                            </button>
-                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Next</span>
-                            </button>
-                            </div>
-                        </div>
 
 
                     </div>
@@ -694,31 +477,6 @@ $currentPage = 'products';
                         We design and install high quality wall cladding suitable for food processing. For ease of operation stainless steel wall cladding is the best since its more hygienic.   
 
                         <hr>
-
-                        <div class="mt-5">
-                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
-                                </div>
-                                <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
-                                </div>
-                            </div>
-                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Previous</span>
-                            </button>
-                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Next</span>
-                            </button>
-                            </div>
-                        </div>
-
 
                     </div>
 

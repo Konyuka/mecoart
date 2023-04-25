@@ -35,7 +35,7 @@
             <a href="products.php" class="<?php echo $currentPage === 'products' ? 'active' : ''; ?> menu-item nav-item nav-link">Products</a>
             <a href="about.php" class=" <?php echo $currentPage === 'about' ? 'active' : ''; ?> nav-item nav-link">About</a>
             <a href="contact.php" class="<?php echo $currentPage === 'contact' ? 'active' : ''; ?> menu-item nav-item nav-link">Contact</a>
-            <a href="#" class="<?php echo $currentPage === 'blog' ? 'active' : ''; ?> menu-item nav-item nav-link">Blogs</a>
+            <a href="blog.php" class="<?php echo $currentPage === 'blog' ? 'active' : ''; ?> menu-item nav-item nav-link">Blogs</a>
         </div>
         <a href="" class="btn btn-primary px-3 d-none d-lg-block">Get A Quote</a>
     </div>
