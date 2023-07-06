@@ -29,7 +29,7 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/cookingrange.jpg" alt="">
+                        <img class="img-fluid" src="img/real/cookingrange.jpg" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#cookingRanges" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
@@ -43,7 +43,7 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/dishwasher.png" alt="">
+                        <img class="img-fluid" src="img/real/washarea.jpg" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#washArea" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
@@ -57,7 +57,7 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/preptables.png" alt="">
+                        <img class="img-fluid" src="img/real/tables.jpg" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#tables" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
@@ -71,7 +71,7 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/shelves.png" alt="">
+                        <img class="img-fluid" src="img/real/racks.jpg" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#storage" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
@@ -85,7 +85,7 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/service.webp" alt="">
+                        <img class="img-fluid" src="img/real/service.jpg" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#service" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <i class="fa fa-2x fa-eye text-white"></i>
