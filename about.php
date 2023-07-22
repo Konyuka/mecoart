@@ -3,7 +3,8 @@
 
 <?php include
     './components/header.html';
-$currentPage = 'about';
+$currentPage = 'about'; 
+
 ?>
 
 <body>
