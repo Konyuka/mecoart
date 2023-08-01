@@ -83,7 +83,7 @@ $currentPage = 'index';
                     </div> -->
                 </div>
                 <div class="col-lg-10 wow fadeIn" data-wow-delay="0.5s">
-                    <p class="fw-medium text-uppercase text-primary mb-2">Leaders in commercial kitchen equipment</p>
+                    <p class="fw-medium text-uppercase text-primary mb-2">Get expert advice</p>
                     <h1 class="display-5 mb-4">Choosing The Right Kitchen Equipment</h1>
                     <p class="mb-4">
                         Starting a commercial kitchen involves several steps, including obtaining necessary permits and
@@ -118,8 +118,12 @@ $currentPage = 'index';
                                 </div>
                                 <div class="ms-3">
                                     <p class="mb-2">Email us</p>
-                                    <h5 class="mb-0">sales@mecoartltd.co.ke</h5>
-                                    <h5 class="mb-0">info@mecoartltd.co.ke</h5>
+                                    <a class="hover-text-primary" href="mailto:sales@mecoartltd.co.ke">
+                                    <h5 class="mb-3 hover-text-primary">sales@mecoartltd.co.ke</h5>
+                                    </a>
+                                    <a href="mailto:info@mecoartltd.co.ke">
+                                        <h5 class="mb-0 hover-text-primary">info@mecoartltd.co.ke</h5>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -130,8 +134,12 @@ $currentPage = 'index';
                                 </div>
                                 <div class="ms-3">
                                     <p class="mb-2">Call us</p>
-                                    <h5 class="mb-0">+254 748 508 142</h5>
-                                    <h5 class="mb-0">+254 704 123 574</h5>
+                                    <a href="tel:+254 748 508 142">
+                                        <h5 class="mb-3 hover-text-primary">+254 748 508 142</h5>
+                                    </a>
+                                    <a href="tel:+254 704 123 574">
+                                        <h5 class="mb-0 hover-text-primary">+254 704 123 574</h5>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -338,8 +346,9 @@ $currentPage = 'index';
                     <div class="service-item">
 
                         <img class="img-fluid" src="img/orange.png" alt="">
-                        <div class="service-img">
-                            <img class="img-fluid" src="img/star.jpg" alt="">
+                        <div class="service-img relative">
+                            <!-- <img class="img-fluid" src="img/star.jpg" alt=""> -->
+                            <i class="fas fa-ruler-combined icon-center"></i>
                         </div>
                         <div class="service-detail">
                             <div class="service-title">
@@ -380,8 +389,8 @@ $currentPage = 'index';
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item">
                         <img class="img-fluid" src="img/orange.png" alt="">
-                        <div class="service-img">
-                            <img class="img-fluid" src="img/star.jpg" alt="">
+                        <div class="service-img relative">
+                            <i class="fas fa-toolbox icon-center"></i>
                         </div>
                         <div class="service-detail">
                             <div class="service-title">
@@ -430,13 +439,13 @@ $currentPage = 'index';
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item">
                         <img class="img-fluid" src="img/orange.png" alt="">
-                        <div class="service-img">
-                            <img class="img-fluid" src="img/star.jpg" alt="">
+                        <div class="service-img relative">
+                            <i class="fas fa-handshake icon-center"></i>
                         </div>
                         <div class="service-detail">
                             <div class="service-title">
                                 <hr class="w-25">
-                                <h3 class="mb-0">Fabricating Kitchen Solutions</h3>
+                                <h3 class="mb-0">Custom Fabrication</h3>
                                 <hr class="w-25">
                             </div>
                             <div class="service-text">
@@ -478,8 +487,8 @@ $currentPage = 'index';
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item">
                         <img class="img-fluid" src="img/orange.png" alt="">
-                        <div class="service-img">
-                            <img class="img-fluid" src="img/star.jpg" alt="">
+                        <div class="service-img relative">
+                            <i class="fas fa-wrench icon-center"></i>
                         </div>
                         <div class="service-detail">
                             <div class="service-title">
@@ -608,10 +617,10 @@ $currentPage = 'index';
 
 
                     <div class="pt-5 mt-5 d-flex justify-content-center align-items-center text-center">
-                        
+
                         <h1 class="display-5 mb-5"><i class="fas fa-plus"></i> 22 More</h1>
                     </div>
-                    
+
                 </div>
             </div>
         </div>

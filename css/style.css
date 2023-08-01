@@ -6,6 +6,20 @@
     --dark: #02245B;
 }
 
+.hover-text-primary:hover {
+  color: #FF5E14; /* Set the text color to the primary color on hover */
+  transition: color 0.2s; /* Add a smooth transition effect */
+}
+
+.icon-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 100px;
+  color: #FF5E14;
+}
+
 .back-to-top {
     position: fixed;
     display: none;
@@ -662,7 +676,7 @@ h6,
 .testimonial-carousel .owl-nav {
     position: absolute;
     width: 350px;
-    top: 20px;
+    top: -60px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
