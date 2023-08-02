@@ -29,10 +29,14 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/real/cookingrange.jpg" alt="">
+                        <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#cookingRanges" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
-                                <i class="fa fa-2x fa-eye text-white"></i>
+                                <span class="text-white">
+                                    <p style="color: white">
+                                        Read <br> More 
+                                    </p>
+                                </span>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Cooking Ranges</h5>
@@ -43,13 +47,17 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/real/washarea.jpg" alt="">
+                        <img class="img-fluid" src="https://www.fedproducts.co.nz/wp-content/uploads/2014/10/ss_bench_centre_double_sink_bench_1800-7-dsbc-600x600.jpg" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#washArea" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
-                                <i class="fa fa-2x fa-eye text-white"></i>
+                                <span class="text-white">
+                                    <p style="color: white">
+                                        Read <br> More 
+                                    </p>
+                                </span>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
-                                <h5>Wash Area</h5>
+                                <h5>Wash Up Area</h5>
                             </div>
                         </div>
                     </div>
@@ -57,13 +65,18 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/real/tables.jpg" alt="">
+                        <img class="img-fluid" src="https://i.ebayimg.com/images/g/EAwAAOSwM~ldUoRn/s-l1200.jpg" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#tables" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
-                                <i class="fa fa-2x fa-eye text-white"></i>
+                                <!-- <i class="fa fa-2x fa-info text-white"></i> -->
+                                <span class="text-white">
+                                    <p style="color: white">
+                                        Read <br> More 
+                                    </p>
+                                </span>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
-                                <h5>Worktop Tables</h5>
+                                <h5>Work Tables</h5>
                             </div>
                         </div>
                     </div>
@@ -71,10 +84,14 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/real/racks.jpg" alt="">
+                        <img class="img-fluid" src="img/real/racks.webp" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#storage" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
-                                <i class="fa fa-2x fa-eye text-white"></i>
+                                <span class="text-white">
+                                    <p style="color: white">
+                                        Read <br> More 
+                                    </p>
+                                </span>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Storage Racks and Shelves</h5>
@@ -85,10 +102,14 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/real/service.jpg" alt="">
+                        <img class="img-fluid" src="https://i0.wp.com/craftsman.co.ke/wp-content/uploads/2022/10/bain_marie.jpg?fit=600%2C600&ssl=1" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#service" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
-                                <i class="fa fa-2x fa-eye text-white"></i>
+                                <span class="text-white">
+                                    <p style="color: white">
+                                        Read <br> More 
+                                    </p>
+                                </span>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Service Area</h5>
@@ -99,10 +120,14 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/hood.jpg" alt="">
+                        <img class="img-fluid" src="img/hood.webp" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#hood" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
-                                <i class="fa fa-2x fa-eye text-white"></i>
+                                <span class="text-white">
+                                    <p style="color: white">
+                                        Read <br> More 
+                                    </p>
+                                </span>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Extraction Hood</h5>
@@ -113,10 +138,14 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/bake.jpg" alt="">
+                        <img class="img-fluid" src="img/bake.webp" alt="">
                         <div class="d-flex">
                             <button  type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
-                                <i class="fa fa-2x fa-eye text-white"></i>
+                                <span class="text-white">
+                                    <p style="color: white">
+                                        Read <br> More 
+                                    </p>
+                                </span>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Bakery Equipment</h5>
@@ -130,7 +159,11 @@ $currentPage = 'products';
                         <img class="img-fluid" src="img/rails.webp" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#grating" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
-                                <i class="fa fa-2x fa-eye text-white"></i>
+                                <span class="text-white">
+                                    <p style="color: white">
+                                        Read <br> More 
+                                    </p>
+                                </span>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>
@@ -144,14 +177,18 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/grates.jpg" alt="">
+                        <img class="img-fluid" src="https://designerdrains.com/wp-content/uploads/2018/02/Designer-Drains-36-Inch-Linear.jpg" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#grating" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
-                                <i class="fa fa-2x fa-eye text-white"></i>
+                                <span class="text-white">
+                                    <p style="color: white">
+                                        Read <br> More 
+                                    </p>
+                                </span>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>
-                                    Floor Grating
+                                    Kitchen Drainage
                                 </h5>
                             </div>
                         </div>
@@ -160,13 +197,17 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/lpg.png" alt="">
+                        <img class="img-fluid" src="https://www.auckland.plumbing/wp-content/uploads/2014/08/commercial_gas_installation.jpg" alt="">
                         <div class="d-flex">
                             <button data-bs-toggle="modal" data-bs-target="#gas" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
-                                <i class="fa fa-2x fa-eye text-white"></i>
+                                <span class="text-white">
+                                    <p style="color: white">
+                                        Read <br> More 
+                                    </p>
+                                </span>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
-                                <h5>Gas Installation <br> LPG Lines </h5>
+                                <h5>LPG Installation </h5>
                             </div>
                         </div>
                     </div>
@@ -206,13 +247,13 @@ $currentPage = 'products';
                             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325603598_530004999112384_6446798998210067823_n.webp?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=V6KZOEMn8uAAX_nALea&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDiP-UqbV2boABguxQ1FtHIlXJBpNhv5l7j8ucxlx-x2A&oe=6402AC83" class="d-block w-100" alt="...">
                                 </div>
                                 <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/325309484_1553479558457866_2716546686608183017_n.webp?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0wtDmCic4AYAX-pl7bA&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfCKJgEEOz8aNjErtOmdTlQe0M-QxAWzYgM_7_c7NiZItQ&oe=6400EB02" class="d-block w-100" alt="...">
                                 </div>
                                 <div class="carousel-item">
-                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
+                                <img src="https://scontent.fnbo15-1.fna.fbcdn.net/v/t39.30808-6/324512693_1352922728883163_4456756350445065506_n.webp?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tC4VEFxhCkIAX8YFc1i&_nc_ht=scontent.fnbo15-1.fna&oh=00_AfDK7rMXR6iJert04QmZK9RipKz639QUUjiWYQ8sgsWF0Q&oe=64022E3D" class="d-block w-100" alt="...">
                                 </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -299,17 +340,17 @@ $currentPage = 'products';
 
                     <!-- Modal Header -->
                     <div class="modal-header">
-                        <h3 class="modal-title">Worktop Tables</h3>
+                        <h3 class="modal-title">Work Tables</h3>
                         <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
                     </div>
 
                     <!-- Modal body -->
                     <div class="modal-body">
-                       Worktop tables are of different types with a standard height of 850mm that is: <br><br><br> 
+                       Work tables are of different types with a standard height of 850mm that is: <br><br><br> 
                        
-                        a) stand-alone worktop tables with one under shelves and 100mm back splash. <br><br>
-                        b) worktop table with two under shelves and 100mm back splash. <br><br>
-                        c) worktop table island type with two under shelves and two over shelves. <br><br>
+                        a) stand-alone Work tables with one under shelves and 100mm back splash. <br><br>
+                        b) Work table with two under shelves and 100mm back splash. <br><br>
+                        c) Work table island type with two under shelves and two over shelves. <br><br>
 
                         <hr>
 
@@ -441,8 +482,8 @@ $currentPage = 'products';
                     <!-- Modal body -->
                     <div class="modal-body">
                         Extraction hood is a ventilation system used in commercial kitchens to remove heat, smoke and steam generated during cooking/boiling. Extraction hood comes in different sizes and types depending on cooking place, size of equipment used in the kitchen and generally kitchen arrangements. The hoods can either be wall mounted type or island/ central type. <br> <br>
-                        Extraction hood consist of the canopy that usually hang above the cooking area, removable oil /grease filters that are fixed inside the canopy, the duct pipes that channels the fumes collected by the canopy out of the kitchen the extraction fan is installed along the duct work the fan, when turned on generates negative pressure that facilitates the pulling out of the fumes collected by the canopy. <br> <br>
-                        Extraction hoods are essential for maintaining safe and comfortable working environment for kitchen staff, as well as preventing the buildup of gases and reducing risk of fires.
+                        Extraction hood consist of the canopy that usually hang above the cooking area, removable oil /grease filters that are fixed inside the canopy, the duct pipes that channels the fumes collected by the canopy out of the kitchen the extraction fan is installed along the duct .webp the fan, when turned on generates negative pressure that facilitates the pulling out of the fumes collected by the canopy. <br> <br>
+                        Extraction hoods are essential for maintaining safe and comfortable .webping environment for kitchen staff, as well as preventing the buildup of gases and reducing risk of fires.
 
 
                         <hr>

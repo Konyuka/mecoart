@@ -25,33 +25,90 @@ $currentPage = 'index';
     <div class="container-fluid px-0 mb-5">
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
+                <img class="image-cover" src="img/real/1.jpg" alt="Image">
                 <div class="carousel-item active">
-                    <img class="w-100" src="img/real/1.jpg" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-10 text-start">
-                                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">Meco Art
-                                        Limited</p>
-                                    <h1 class="display-1 text-white mb-5 animated slideInRight">Culinary
-                                        innovation <br> meets classic flavor</h1>
-                                    <a href="" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>
+                                    <h1
+                                        class="headfont fs-5 fw-medium text-primary text-uppercase animated slideInRight">
+                                        Cutting-Edge Kitchen Equipment
+                                    </h1>
+                                    <p class="bodyfont text-white mb-5 animated slideInRight">
+                                        Experience our cutting-edge commercial kitchen equipment. We curate a premium
+                                        selection
+                                        of high-quality appliances that guarantee seamless functionality and outstanding
+                                        performance,
+                                        empowering you to take your culinary creations to new heights.
+                                    </p>
+
+                                    <!-- <a href="" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a> -->
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="img/real/2.jpg" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-10 text-start">
-                                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">Meco Art
-                                        Limited</p>
-                                    <h1 class="display-1 text-white mb-5 animated slideInRight">Experience the art of
-                                        cooking at its finest</h1>
-                                    <a href="" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>
+                                    <h1
+                                        class="headfont fs-5 fw-medium text-primary text-uppercase animated slideInRight">
+                                        Bespoke Kitchen Designs
+                                    </h1>
+                                    <p class="bodyfont text-white mb-5 animated slideInRight">
+                                        Our bespoke kitchen designs tailored to your unique vision and requirements. Our
+                                        team of
+                                        skilled craftsmen and designers collaborates closely with you, translating your
+                                        ideas into reality,
+                                        ensuring an optimized kitchen layout that enhances efficiency and productivity.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="carousel-caption">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-10 text-start">
+                                    <h1
+                                        class="headfont fs-5 fw-medium text-primary text-uppercase animated slideInRight">
+                                        Supply & Installation
+                                    </h1>
+                                    <p class="bodyfont text-white mb-5 animated slideInRight">
+                                        We supply, install and commission our kitchen equipment before handing over.
+                                        We'll take care of every detail, from precise equipment placement to smooth integration,
+                                        ensuring that your
+                                        kitchen setup is effortless, enabling you to focus on what you do best -
+                                        preparing exceptional dishes.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="carousel-caption">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-10 text-start">
+                                    <h1
+                                        class="headfont fs-5 fw-medium text-primary text-uppercase animated slideInRight">
+                                        Trustworthy Service
+                                    </h1>
+                                    <p class="bodyfont text-white mb-5 animated slideInRight">
+                                        Our dedication to your success extends beyond just delivering quality products.
+                                        From the
+                                        initial consultation to ongoing maintenance and support, our team is committed
+                                        to providing you with
+                                        exceptional service at every stage of your journey. With us, you can have peace
+                                        of mind knowing you
+                                        have a reliable partner you can trust.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -119,7 +176,7 @@ $currentPage = 'index';
                                 <div class="ms-3">
                                     <p class="mb-2">Email us</p>
                                     <a class="hover-text-primary" href="mailto:sales@mecoartltd.co.ke">
-                                    <h5 class="mb-3 hover-text-primary">sales@mecoartltd.co.ke</h5>
+                                        <h5 class="mb-3 hover-text-primary">sales@mecoartltd.co.ke</h5>
                                     </a>
                                     <a href="mailto:info@mecoartltd.co.ke">
                                         <h5 class="mb-0 hover-text-primary">info@mecoartltd.co.ke</h5>
