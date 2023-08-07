@@ -81,7 +81,8 @@ $currentPage = 'index';
                                     </h1>
                                     <p class="bodyfont text-white mb-5 animated slideInRight">
                                         We supply, install and commission our kitchen equipment before handing over.
-                                        We'll take care of every detail, from precise equipment placement to smooth integration,
+                                        We'll take care of every detail, from precise equipment placement to smooth
+                                        integration,
                                         ensuring that your
                                         kitchen setup is effortless, enabling you to focus on what you do best -
                                         preparing exceptional dishes.
@@ -143,29 +144,59 @@ $currentPage = 'index';
                     <p class="fw-medium text-uppercase text-primary mb-2">Get expert advice</p>
                     <h1 class="display-5 mb-4">Choosing The Right Kitchen Equipment</h1>
                     <p class="mb-4">
-                        Starting a commercial kitchen involves several steps, including obtaining necessary permits and
-                        licenses, finding a suitable location, purchasing equipment, and developing a menu and business
-                        plan. Some of the factors to consider while selecting the right equipment for your restaurant or
-                        institution include:
+                        Designing and setting up a commercial kitchen is a significant undertaking that can greatly
+                        impact the
+                        success of your food service business. It requires careful planning and consideration of various
+                        factors to
+                        ensure optimal functionality, efficiency, and safety. As an industry leader in providing
+                        end-to-end
+                        solutions for commercial kitchens, we are here to guide you through the essential factors you
+                        should
+                        consider when embarking on this culinary journey.
                     </p>
-                    <div class="d-flex align-items-center mb-4">
-                        <div class="flex-shrink-0 bg-primary p-4">
+                    <div class="italic d-flex align-items-center mb-4">
+                        <!-- <div class="flex-shrink-0 bg-primary p-4">
                             <h1 class="display-2">6</h1>
                             <h5 class="text-white">Years of</h5>
                             <h5 class="text-white">Experience</h5>
-                        </div>
+                        </div> -->
                         <div class="ms-4">
-                            <p><i class="fa fa-check text-primary me-2"></i>Volume of food to be preparing</p>
-                            <p><i class="fa fa-check text-primary me-2"></i>Physical space of your kitchen</p>
-                            <p><i class="fa fa-check text-primary me-2"></i>Easy service for the equipment</p>
-                            <p><i class="fa fa-check text-primary me-2"></i>Budget & quality of equipment</p>
-                            <p class="mb-0"><i class="fa fa-check text-primary me-2"></i>Running cost of the equipment
+                            <p><i class="fa fa-check text-primary me-2"></i>Menu and Cuisine</p>
+                            <p><i class="fa fa-check text-primary me-2"></i>Capacity and Volume</p>
+                            <p class="mb-0"><i class="fa fa-check text-primary me-2"></i>Available Kitchen Space
                             </p>
+                            <p style="margin-top:10px"><i class="fa fa-check text-primary me-2"></i>Budget
+                                Considerations</p>
+
                         </div>
+                        <!-- <div class="flex-shrink-0 bg-primary p-4">
+                            <h1 class="display-2">6</h1>
+                            <h5 class="text-white">Years of</h5>
+                            <h5 class="text-white">Experience</h5>
+                        </div> -->
+                        <div class="ms-4">
+                            <p><i class="fa fa-check text-primary me-2"></i>Energy Efficiency</p>
+                            <p><i class="fa fa-check text-primary me-2"></i>Quality and Durability</p>
+                            <p><i class="fa fa-check text-primary me-2"></i>Maintenance and Service</p>
+                        </div>
+
+                        <div class="ms-4" style="right:0;">
+                            <p><i class="fa fa-check text-primary me-2"></i>Safety Features</p>
+                            <p><i class="fa fa-check text-primary me-2"></i>Ventilation and Exhaust</p>
+                            <p><i class="fa fa-check text-primary me-2"></i>Compliance with Regulations</p>
+                        </div>
+                        <a href="commercial-kitchen-equipment.php" class="flex-shrink-0 bg-primary p-3"
+                            style="margin-left:60px">
+                            <!-- <h1 class="display-2">6</h1> -->
+                            <h5 class="text-white">Learn More
+                            </h5>
+                        </a>
                     </div>
+
                     <p class="mb-4">
-                        We build trust with potential clients by being readily available for feedback on queries.
-                        We normally reply immediately. Feel free to reach to us through phone or email as desired
+                        Looking to set up a commercial kitchen but have no idea where to begin? Contact us today and we
+                        will
+                        help you get started.
                     </p>
                     <div class="row pt-2">
                         <div class="col-sm-6">
@@ -248,7 +279,7 @@ $currentPage = 'index';
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5 align-items-center">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                <!-- <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="position-relative me-lg-4">
                         <img class="img-fluid w-100" src="img/falling3.png" alt="">
                         <span
@@ -259,8 +290,9 @@ $currentPage = 'index';
                             <span></span>
                         </button>
                     </div>
-                </div>
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
+                </div> -->
+
+                <div class="col-lg-10 wow fadeInUp" data-wow-delay="0.5s">
                     <p class="fw-medium text-uppercase text-primary mb-2">Why Choose Us?</p>
                     <h1 class="display-5 mb-4">A Few Reasons Why..</h1>
 
@@ -271,10 +303,14 @@ $currentPage = 'index';
                                     <i class="fa fa-check text-white"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <h4>Quality</h4>
+                                    <h4>Extensive Product Portfolio</h4>
                                     <span>
-                                        We have high quality and durable equipment as we use the commercial grade
-                                        materials during our build phase
+                                        With an unwavering commitment to excellence, we showcase a vast array
+                                        of top-tier kitchen equipment from high-performance cooking ranges to
+                                        refrigeration and storage
+                                        solutions, our diverse collection caters to kitchens of all sizes, ensuring you
+                                        find the perfect match for
+                                        your establishment&#39;s needs.
                                     </span>
                                 </div>
                             </div>
@@ -285,10 +321,14 @@ $currentPage = 'index';
                                     <i class="fa fa-check text-white"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <h4>Experience</h4>
+                                    <h4>Personalized Consultation</h4>
                                     <span>
-                                        We have a 6 year expert experience in the field and can prove by awards and
-                                        testimonals from our clients
+                                        Your vision is our priority. Our team of kitchen design experts specializes in
+                                        crafting personalized consultations, understanding your unique requirements.
+                                        Whether you&#39;re crafting a
+                                        new kitchen or enhancing an existing one, we&#39;re here to provide expert
+                                        insights that optimize layout,
+                                        workflow, and efficiency.
                                     </span>
                                 </div>
                             </div>
@@ -299,10 +339,14 @@ $currentPage = 'index';
                                     <i class="fa fa-check text-white"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <h4>Wide range of products</h4>
+                                    <h4>Uncompromising Quality</h4>
                                     <span>
-                                        We showcase a wide range of products and equipment to meet the needs of
-                                        different types of commercial kitchens
+                                        We are committed to delivering premium quality. We meticulously curate
+                                        equipment that adheres to the highest industry standards, subjecting each item
+                                        to rigorous testing. This
+                                        ensures you receive equipment that excels in performance, durability, and
+                                        reliability, contributing to the
+                                        success of you venture.
                                     </span>
                                 </div>
                             </div>
@@ -313,9 +357,12 @@ $currentPage = 'index';
                                     <i class="fa fa-check text-white"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <h4>Customization</h4>
+                                    <h4>Innovative Solutions</h4>
                                     <span>
-                                        We always cusomize our equipment to the client's specifications and requirements
+                                        As industry frontrunners, we&#39;re attuned to emerging technologies and design
+                                        concepts. Count on us to recommend state-of-the-art solutions that amplify
+                                        productivity, energy
+                                        conservation, and sustainability, allowing your kitchen to adapt and excel.
                                     </span>
                                 </div>
                             </div>
@@ -326,10 +373,14 @@ $currentPage = 'index';
                                     <i class="fa fa-check text-white"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <h4>Service and Support</h4>
+                                    <h4>Exceptional Customer Support</h4>
                                     <span>
-                                        We offer commited and excellent customer service for technical, maintenance &
-                                        repair services
+                                        Beyond offering superior products, we&#39;re your dedicated partners on
+                                        your culinary journey. Our responsive customer support extends well beyond
+                                        purchase, encompassing
+                                        installation, maintenance, and troubleshooting assistance. With us, you&#39;re
+                                        not just acquiring equipment
+                                        – you&#39;re gaining unwavering support for your success.
                                     </span>
                                 </div>
                             </div>
@@ -342,12 +393,17 @@ $currentPage = 'index';
                                 <div class="ms-4">
                                     <h4>Competitive pricing</h4>
                                     <span>
-                                        We offer the best market prices and financial options to any estemeed client
+                                        Beyond offering superior products, we&#39;re your dedicated partners on
+                                        your culinary journey. Our responsive customer support extends well beyond
+                                        purchase, encompassing
+                                        installation, maintenance, and troubleshooting assistance. With us, you&#39;re
+                                        not just acquiring equipment
+                                        – you&#39;re gaining unwavering support for your success.
                                     </span>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12">
+                        <!-- <div class="col-12">
                             <div class="d-flex">
                                 <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
                                     <i class="fa fa-check text-white"></i>
@@ -360,7 +416,7 @@ $currentPage = 'index';
                                     </span>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -440,7 +496,7 @@ $currentPage = 'index';
                                 </p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Enquire</a>
+                        <!-- <a class="btn btn-light" href="">Enquire</a> -->
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -490,7 +546,7 @@ $currentPage = 'index';
                                 </p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Enquire</a>
+                        <!-- <a class="btn btn-light" href="">Enquire</a> -->
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -538,7 +594,7 @@ $currentPage = 'index';
                                 </p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Enquire</a>
+                        <!-- <a class="btn btn-light" href="">Enquire</a> -->
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -580,7 +636,7 @@ $currentPage = 'index';
                                 </p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Enquire</a>
+                        <!-- <a class="btn btn-light" href="">Enquire</a> -->
                     </div>
                 </div>
             </div>

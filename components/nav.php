@@ -37,7 +37,7 @@
             <a href="contact.php" class="<?php echo $currentPage === 'contact' ? 'active' : ''; ?> menu-item nav-item nav-link">Contact</a>
             <a href="blog.php" class="<?php echo $currentPage === 'blog' ? 'active' : ''; ?> menu-item nav-item nav-link">Blogs</a>
         </div>
-        <a href="" class="btn btn-primary px-3 d-none d-lg-block">Get A Quote</a>
+        <a href="contact.php" class="btn btn-primary px-3 d-none d-lg-block">Get A Quote</a>
     </div>
 </nav>
 <!-- Navbar End -->
