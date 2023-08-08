@@ -57,7 +57,7 @@ $currentPage = 'products';
                                 </span>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
-                                <h5>Wash Up Area</h5>
+                                <h5>Stainless Steel Sinks</h5>
                             </div>
                         </div>
                     </div>
@@ -76,7 +76,9 @@ $currentPage = 'products';
                                 </span>
                             </button>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
-                                <h5>Work Tables</h5>
+                                <h5>Stainless Steel Work Tables</h5>
+
+                                
                             </div>
                         </div>
                     </div>

@@ -142,7 +142,7 @@ $currentPage = 'index';
                 </div>
                 <div class="col-lg-10 wow fadeIn" data-wow-delay="0.5s">
                     <p class="fw-medium text-uppercase text-primary mb-2">Get expert advice</p>
-                    <h1 class="display-5 mb-4">Choosing The Right Kitchen Equipment</h1>
+                    <h1 class="display-5 mb-4" style="color:black;">Choosing The Right Kitchen Equipment</h1>
                     <p class="mb-4">
                         Designing and setting up a commercial kitchen is a significant undertaking that can greatly
                         impact the
@@ -154,7 +154,7 @@ $currentPage = 'index';
                         should
                         consider when embarking on this culinary journey.
                     </p>
-                    <div class="italic row align-items-center mb-4">
+                    <div class="italic row align-items-center mb-4" style="font-weight: 600; color:black;">
                         <!-- <div class="flex-shrink-0 bg-primary p-4">
                             <h1 class="display-2">6</h1>
                             <h5 class="text-white">Years of</h5>
@@ -163,11 +163,8 @@ $currentPage = 'index';
                         <div class="col-lg-4 col-md-6 ms-0">
                             <p><i class="fa fa-check text-primary me-2"></i>Menu and Cuisine</p>
                             <p><i class="fa fa-check text-primary me-2"></i>Capacity and Volume</p>
-                            <p class="mb-0"><i class="fa fa-check text-primary me-2"></i>Available Kitchen Space
+                            <p><i class="fa fa-check text-primary me-2"></i>Available Kitchen Space
                             </p>
-                            <p style="margin-top:10px"><i class="fa fa-check text-primary me-2"></i>Budget
-                                Considerations</p>
-
                         </div>
                         <!-- <div class="flex-shrink-0 bg-primary p-4">
                             <h1 class="display-2">6</h1>
@@ -183,14 +180,18 @@ $currentPage = 'index';
                         <div class="col-lg-4 col-md-6 ms-0" style="right:0;">
                             <p><i class="fa fa-check text-primary me-2"></i>Safety Features</p>
                             <p><i class="fa fa-check text-primary me-2"></i>Ventilation and Exhaust</p>
-                            <p><i class="fa fa-check text-primary me-2"></i>Compliance with Regulations</p>
+                            <p class="font-weight-bold"><i class="fa fa-check text-primary me-2"></i>Budget
+                                Considerations</p>
                         </div>
 
-                        <a href="choosing-the-right-kitchen-equipment.php" class="flex-shrink-0 bg-primary p-3"
-                            style="">
+                        <a href="choosing-the-right-kitchen-equipment.php"
+                            class="col-lg-3 flex-shrink-0 bg-primary py-1 px-5" style="">
+
+                            <div>
+                                <h5 class="mt-2 text-white text-center">Learn More
+                                </h5>
+                            </div>
                             <!-- <h1 class="display-2">6</h1> -->
-                            <h5 class="text-white text-center">Learn More
-                            </h5>
                         </a>
                     </div>
 
@@ -452,7 +453,7 @@ $currentPage = 'index';
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="fw-medium text-uppercase text-primary mb-2">Meco Art</p>
+                <p class="fw-medium text-uppercase text-primary mb-2">What we do</p>
                 <h1 class="display-5 mb-4">Our Services</h1>
             </div>
             <div class="row gy-5 gx-4">

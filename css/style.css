@@ -6,6 +6,22 @@
   --dark: #02245b;
 }
 
+.image-layer {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    align-items: center;
+    background: linear-gradient(
+    to right,
+    rgba(2, 36, 91, 1) 0%,
+    rgba(2, 36, 91, 0) 100%
+  );
+    z-index: 1;
+    /* width: 100vw;
+    height: 100vh; */
+}
+
 .margin-top-text {
   margin-top: 300px;
 }
