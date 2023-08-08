@@ -52,7 +52,7 @@ $currentPage = 'about';
                     </p>
                     <h1 class="display-5 mb-4">Meco Art Limited</h1>
                     <p class="mb-4">
-                        "Welcome to Meco Art Limited, your one-stop shop for all your commercial kitchen equipment needs. We have been in the industry for 6 years and have built a reputation for providing top-quality equipment at competitive prices.
+                        Welcome to Meco Art Limited, your one-stop shop for all your commercial kitchen equipment needs. We have been in the industry for 6 years and have built a reputation for providing top-quality equipment at competitive prices.
 
                         Our mission is to provide our customers with the best equipment and service, so they can focus on what they do best - creating delicious food. We understand that every kitchen is different, and we strive to offer a wide range of products to meet the unique needs of our customers.
 

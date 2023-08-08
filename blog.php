@@ -24,7 +24,22 @@ $currentPage = 'blog';
         <h4 class="mb-5"><strong>Latest posts</strong></h4>
 
         <div class="row">
-          <div class="col-lg-4 col-md-12 mb-4">
+          <div class="col-lg-6 col-md-12 mb-4">
+            <div class="card">
+              <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+                <img src="./img/4.png" class="img-fluid" />
+                <a href="#!">
+                  <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+                </a>
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Choosing The Right Kitchen Equipment</h5>
+                <a href="choosing-the-right-kitchen-equipment.php" class="btn btn-primary">Read</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 col-md-12 mb-4">
             <div class="card">
               <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
                 <img src="./img/1.png" class="img-fluid" />
@@ -33,13 +48,13 @@ $currentPage = 'blog';
                 </a>
               </div>
               <div class="card-body">
-                <h5 class="card-title">Commercial Kitchen Equipment</h5>
+                <h5 class="card-title">Kitchen Equipment for Every Restaurant</h5>
                 <a href="commercial-kitchen-equipment.php" class="btn btn-primary">Read</a>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 mb-4">
+          <div class="col-lg-6 col-md-6 mb-4">
             <div class="card">
               <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
                 <img src="./img/2.png" class="img-fluid" />
@@ -54,7 +69,7 @@ $currentPage = 'blog';
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 mb-4">
+          <div class="col-lg-6 col-md-6 mb-4">
             <div class="card">
               <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
                 <img src="./img/3.png" class="img-fluid" />
@@ -63,7 +78,7 @@ $currentPage = 'blog';
                 </a>
               </div>
               <div class="card-body">
-                <h5 class="card-title">Restaurant Kitchen Equipment</h5>
+                <h5 class="card-title">Types of Commercial Kitchen Refrigeration</h5>
                 <a href="#!" class="btn btn-primary">Read</a>
               </div>
             </div>

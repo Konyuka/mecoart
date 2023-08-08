@@ -25,7 +25,7 @@ $currentPage = 'index';
     <div class="container-fluid px-0 mb-5">
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
-                <img class="image-cover" src="img/real/1.jpg" alt="Image">
+                <img class="image-cover" src="img/real/1.webp" alt="Image">
                 <div class="carousel-item active">
                     <div class="carousel-caption">
                         <div class="container">
@@ -154,13 +154,13 @@ $currentPage = 'index';
                         should
                         consider when embarking on this culinary journey.
                     </p>
-                    <div class="italic d-flex align-items-center mb-4">
+                    <div class="italic row align-items-center mb-4">
                         <!-- <div class="flex-shrink-0 bg-primary p-4">
                             <h1 class="display-2">6</h1>
                             <h5 class="text-white">Years of</h5>
                             <h5 class="text-white">Experience</h5>
                         </div> -->
-                        <div class="ms-4">
+                        <div class="col-lg-4 col-md-6 ms-0">
                             <p><i class="fa fa-check text-primary me-2"></i>Menu and Cuisine</p>
                             <p><i class="fa fa-check text-primary me-2"></i>Capacity and Volume</p>
                             <p class="mb-0"><i class="fa fa-check text-primary me-2"></i>Available Kitchen Space
@@ -174,21 +174,22 @@ $currentPage = 'index';
                             <h5 class="text-white">Years of</h5>
                             <h5 class="text-white">Experience</h5>
                         </div> -->
-                        <div class="ms-4">
+                        <div class="col-lg-4 col-md-6 ms-0">
                             <p><i class="fa fa-check text-primary me-2"></i>Energy Efficiency</p>
                             <p><i class="fa fa-check text-primary me-2"></i>Quality and Durability</p>
                             <p><i class="fa fa-check text-primary me-2"></i>Maintenance and Service</p>
                         </div>
 
-                        <div class="ms-4" style="right:0;">
+                        <div class="col-lg-4 col-md-6 ms-0" style="right:0;">
                             <p><i class="fa fa-check text-primary me-2"></i>Safety Features</p>
                             <p><i class="fa fa-check text-primary me-2"></i>Ventilation and Exhaust</p>
                             <p><i class="fa fa-check text-primary me-2"></i>Compliance with Regulations</p>
                         </div>
-                        <a href="commercial-kitchen-equipment.php" class="flex-shrink-0 bg-primary p-3"
-                            style="margin-left:60px">
+
+                        <a href="choosing-the-right-kitchen-equipment.php" class="flex-shrink-0 bg-primary p-3"
+                            style="">
                             <!-- <h1 class="display-2">6</h1> -->
-                            <h5 class="text-white">Learn More
+                            <h5 class="text-white text-center">Learn More
                             </h5>
                         </a>
                     </div>
@@ -458,7 +459,7 @@ $currentPage = 'index';
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item">
 
-                        <img class="img-fluid" src="img/orange.png" alt="">
+                        <img class="img-fluid" src="img/orange.webp" alt="">
                         <div class="service-img relative">
                             <!-- <img class="img-fluid" src="img/star.jpg" alt=""> -->
                             <i class="fas fa-ruler-combined icon-center"></i>

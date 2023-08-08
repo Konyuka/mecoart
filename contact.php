@@ -78,7 +78,7 @@ $currentPage = 'contact';
                     <p class="fw-medium text-uppercase text-primary mb-2">Contact Us</p>
                     <h1 class="display-5 mb-4">If You Have Any Queries, Please Feel Free To Contact Us</h1>
                     <div class="row g-4">
-                        <div class="col-6">
+                        <div class="col-12 col-sm-6">
                             <div class="d-flex">
                                 <div class="flex-shrink-0 btn-square bg-primary rounded-circle">
                                     <i class="fa fa-phone-alt text-white"></i>
@@ -89,7 +89,7 @@ $currentPage = 'contact';
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6">
+                        <div class="col-12 col-sm-6">
                             <div class="d-flex">
                                 <div class="flex-shrink-0 btn-square bg-primary rounded-circle">
                                     <i class="fa fa-envelope text-white"></i>
