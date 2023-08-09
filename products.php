@@ -31,13 +31,14 @@ $currentPage = 'products';
                     <div class="team-item">
                         <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
                         <div class="d-flex">
-                            <button data-bs-toggle="modal" data-bs-target="#cookingRanges" type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
+                            <!-- data-bs-toggle="modal" data-bs-target="#cookingRanges" -->
+                            <a href="./cooking-ranges.php"  type="button" class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <span class="text-white">
                                     <p style="color: white">
                                         Read <br> More 
                                     </p>
                                 </span>
-                            </button>
+                            </a>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4" style="height: 90px;">
                                 <h5>Cooking Ranges</h5>
                             </div>
