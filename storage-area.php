@@ -20,7 +20,7 @@ $currentPage = 'products';
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h6 class="display-5 text-white animated slideInRight">Stainless Steel Work Tables</h6>
+            <h6 class="display-5 text-white animated slideInRight">Servery Area</h6>
         </div>
 
     </div>
@@ -37,22 +37,20 @@ $currentPage = 'products';
 
 
                 <p>
-                    When it comes to stainless steel work tables &amp; prep tables, the options are practically endless.
-                    With
-                    thousands of variations available, you can customize them to fit your kitchen&#39;s exact
-                    requirements.
-                    These tables can come with additional features like back or side panels, extra shelves, drawers,
-                    racks,
-                    caster wheels. Create functional, top-notch, and long-lasting spaces for food prep and storage with
-                    our
-                    diverse collection of commercial kitchen tables.
-                    Our tables are designed to make your life easier in the kitchen. They&#39;re not only practical, but
-                    they also
-                    offer high quality and durability, ensuring they can withstand the demands of a bustling kitchen.
-                    Easy to
-                    clean, they maintain maximum hygiene standards, which is essential in any culinary environment. From
-                    different sizes to various features, you can choose the perfect table that suits your specific
-                    venture.
+                    Creating and maintaining an efficient storage area can be a real puzzle. But fear not, because our
+                    range
+                    of commercial kitchen storage and shelving is here to turn that challenge into a breeze. We help you
+                    utilize every inch of wall space and stock rooms, thanks to our modular shelving systems that can be
+                    tailored to fit your exact needs. We also offer shelves and cupboards for added convenience.
+                    With our storage units, you can safely store away essential ingredients and supplies until
+                    they&#39;re needed
+                    again. And that&#39;s not all – our collection of commercial kitchen racks comes in a variety of
+                    shapes and
+                    sizes, so you can customize them to fit any space.
+                    Take your pick from solid shelves, perforated shelves, rodded shelves, and wired shelves. These
+                    options can transform your cramped cold room, dish room, warehouse, or any storage space into a
+                    well-
+                    organized haven.
                 </p>
 
 

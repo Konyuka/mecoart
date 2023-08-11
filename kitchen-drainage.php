@@ -20,7 +20,7 @@ $currentPage = 'products';
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h6 class="display-5 text-white animated slideInRight">Stainless Steel Work Tables</h6>
+            <h6 class="display-5 text-white animated slideInRight">Kitchen Drainage</h6>
         </div>
 
     </div>
@@ -37,22 +37,27 @@ $currentPage = 'products';
 
 
                 <p>
-                    When it comes to stainless steel work tables &amp; prep tables, the options are practically endless.
-                    With
-                    thousands of variations available, you can customize them to fit your kitchen&#39;s exact
-                    requirements.
-                    These tables can come with additional features like back or side panels, extra shelves, drawers,
-                    racks,
-                    caster wheels. Create functional, top-notch, and long-lasting spaces for food prep and storage with
-                    our
-                    diverse collection of commercial kitchen tables.
-                    Our tables are designed to make your life easier in the kitchen. They&#39;re not only practical, but
-                    they also
-                    offer high quality and durability, ensuring they can withstand the demands of a bustling kitchen.
-                    Easy to
-                    clean, they maintain maximum hygiene standards, which is essential in any culinary environment. From
-                    different sizes to various features, you can choose the perfect table that suits your specific
-                    venture.
+                    In the world of commercial kitchens, cleanliness and functionality are paramount. That&#39;s why
+                    we&#39;ve
+                    designed our stainless steel floor drains with a focus on sanitation. Our comprehensive selection
+                    includes stainless steel floor drains, under sink grease traps, and a variety of floor drain
+                    accessories – all
+                    crafted to the highest standards. At Meco Art, we take pride in offering a range of drainage
+                    solutions
+                    that stand the test of time.
+                    Our drainage systems are built with longevity in mind. They&#39;re not only resistant to corrosion,
+                    but
+                    they&#39;re also engineered to prevent buildup and withstand the weight of heavy equipment. Whether
+                    it&#39;s
+                    the hustle and bustle of a busy restaurant kitchen or the demands of an industrial setup, our
+                    stainless
+                    steel floor drains are designed to excel.
+                    With a keen eye on sanitation and durability, our stainless steel floor drains are an investment in
+                    the
+                    long-term success of your commercial kitchen. Experience the difference of a drainage system that
+                    not
+                    only performs flawlessly but also contributes to the overall cleanliness and efficiency of your
+                    workspace.
                 </p>
 
 

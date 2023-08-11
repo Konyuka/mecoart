@@ -20,7 +20,7 @@ $currentPage = 'products';
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h6 class="display-5 text-white animated slideInRight">Stainless Steel Work Tables</h6>
+            <h6 class="display-5 text-white animated slideInRight">Cooling Units</h6>
         </div>
 
     </div>
@@ -37,22 +37,12 @@ $currentPage = 'products';
 
 
                 <p>
-                    When it comes to stainless steel work tables &amp; prep tables, the options are practically endless.
-                    With
-                    thousands of variations available, you can customize them to fit your kitchen&#39;s exact
-                    requirements.
-                    These tables can come with additional features like back or side panels, extra shelves, drawers,
-                    racks,
-                    caster wheels. Create functional, top-notch, and long-lasting spaces for food prep and storage with
-                    our
-                    diverse collection of commercial kitchen tables.
-                    Our tables are designed to make your life easier in the kitchen. They&#39;re not only practical, but
-                    they also
-                    offer high quality and durability, ensuring they can withstand the demands of a bustling kitchen.
-                    Easy to
-                    clean, they maintain maximum hygiene standards, which is essential in any culinary environment. From
-                    different sizes to various features, you can choose the perfect table that suits your specific
-                    venture.
+                    When it comes to preserving freshness, our refrigeration units are second to none. We source these
+                    units from the finest suppliers to ensure your ingredients remain at their best. From walk-in
+                    coolers to
+                    reach-in freezers, our refrigeration units maintain the ideal temperature and humidity levels,
+                    ensuring
+                    your culinary creations are nothing short of exceptional.
                 </p>
 
 
