@@ -29,7 +29,7 @@ $currentPage = 'index';
                 <div class="carousel-item active">
                     <div class="carousel-caption">
                         <div class="container">
-                            <div class="row justify-content-center">
+                            <div class="animate-on-scroll row justify-content-center">
                                 <div class="col-lg-10 text-start">
                                     <h1
                                         class="headfont fs-5 fw-medium text-primary text-uppercase animated slideInRight">
@@ -140,9 +140,9 @@ $currentPage = 'index';
                         </div>
                     </div> -->
                 </div>
-                <div class="col-lg-10 wow fadeIn" data-wow-delay="0.5s">
+                <div class="animate-on-scroll col-lg-10 wow fadeIn" data-wow-delay="0.5s">
                     <p class="fw-medium text-uppercase text-primary mb-2">Get expert advice</p>
-                    <h1 class="display-5 mb-4" style="color:black;">Choosing The Right Kitchen Equipment</h1>
+                    <h1 class="display-5 mb-4">Choosing The Right Kitchen Equipment</h1>
                     <p class="mb-4">
                         Designing and setting up a commercial kitchen is a significant undertaking that can greatly
                         impact the
@@ -154,7 +154,7 @@ $currentPage = 'index';
                         should
                         consider when embarking on this culinary journey.
                     </p>
-                    <div class="italic row align-items-center mb-4" style="font-weight: 600; color:black;">
+                    <div class="italic row align-items-center mb-4" style="font-weight: 600">
                         <!-- <div class="flex-shrink-0 bg-primary p-4">
                             <h1 class="display-2">6</h1>
                             <h5 class="text-white">Years of</h5>
@@ -243,7 +243,7 @@ $currentPage = 'index';
 
     <!-- Facts Start -->
     <div class="container-fluid facts my-5 p-5">
-        <div class="row g-5">
+        <div class="animate-on-scroll row g-5">
             <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.1s">
                 <div class="text-center border p-5">
                     <i class="fa fa-certificate fa-3x text-white mb-3"></i>
@@ -821,7 +821,7 @@ $currentPage = 'index';
 
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i
-            class="bi bi-arrow-up"></i></a>
+            class="fas fa-caret-up"></i></a>
 
 
     <!-- JavaScript Libraries -->

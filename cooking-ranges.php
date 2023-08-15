@@ -20,7 +20,7 @@ $currentPage = 'products';
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h6 class="display-5 text-white animated slideInRight">Stainless Steel Work Tables</h6>
+            <h6 class="display-5 text-white animated slideInRight">Cooking Ranges</h6>
         </div>
 
     </div>
@@ -37,22 +37,25 @@ $currentPage = 'products';
 
 
                 <p>
-                    When it comes to stainless steel work tables &amp; prep tables, the options are practically endless.
-                    With
-                    thousands of variations available, you can customize them to fit your kitchen&#39;s exact
-                    requirements.
-                    These tables can come with additional features like back or side panels, extra shelves, drawers,
-                    racks,
-                    caster wheels. Create functional, top-notch, and long-lasting spaces for food prep and storage with
-                    our
-                    diverse collection of commercial kitchen tables.
-                    Our tables are designed to make your life easier in the kitchen. They&#39;re not only practical, but
-                    they also
-                    offer high quality and durability, ensuring they can withstand the demands of a bustling kitchen.
-                    Easy to
-                    clean, they maintain maximum hygiene standards, which is essential in any culinary environment. From
-                    different sizes to various features, you can choose the perfect table that suits your specific
-                    venture.
+                    Our wide selection of commercial kitchen ranges is designed to make cooking easier and more
+                    efficient
+                    for all kinds of professional cooking situations.
+                    Depending on your kitchen setup, you might need a wall type kitchen range or an island kitchen
+                    range.
+                    The choice between them often depends on what food your restaurant serves and how many people
+                    you&#39;re cooking for. An island cooking range is great for busy restaurants because it lets
+                    multiple chefs
+                    use both ends of the range, making cooking faster and smoother. On the other hand, a wall type
+                    cooking
+                    range is better for smaller kitchens, giving you more space to work around.
+                    Before our cooking equipment reaches you, we test it rigorously to make sure it&#39;s up to the
+                    task. We
+                    know that good cooking equipment needs to be efficient, quick, and dependable when you need it
+                    most. We highly recommend stainless steel gas ranges because they&#39;re easy to clean, keep things
+                    hygienic, and work really well. Whether you need a range with an oven, a Combi cooking range,
+                    Griddles, Stock pot stoves, Deep fryers, chips dump, Chargrills/ lava stone grills, we&#39;ve got
+                    you
+                    covered.
                 </p>
 
 
@@ -68,36 +71,10 @@ $currentPage = 'products';
                                 <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
                                     <small>Robotic Automation</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
-                                    </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s"
-                            style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
-                            <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
-                                <a class="case-overlay text-decoration-none" href="">
-                                    <small>Machine learning</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
-                                    </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.7s"
-                            style="visibility: visible; animation-delay: 0.7s; animation-name: fadeIn;">
-                            <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
-                                <a class="case-overlay text-decoration-none" href="">
-                                    <small>Predictive Analysis</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
-                                    </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
+                                    <h6 class="lh-base text-black mb-3">
+                                        Unibebe adi mbere ya kerendee.  
+                                        Sitambui wewee maunenge. Alfu tekwa ka kaparoo
+                                    </h6>
                                 </a>
                             </div>
                         </div>
@@ -114,7 +91,7 @@ $currentPage = 'products';
 
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i
-            class="bi bi-arrow-up"></i></a>
+            class="fas fa-caret-up"></i></a>
 
 
     <!-- JavaScript Libraries -->

@@ -1,6 +1,21 @@
 (function ($) {
     "use strict";
 
+    window.addEventListener('scroll', function () {
+        var elements = document.querySelectorAll('.animate-on-scroll');
+        for (var i = 0; i < elements.length; i++) {
+            var element = elements[i];
+            var elementPosition = element.getBoundingClientRect().top;
+            var windowHeight = window.innerHeight;
+            if (elementPosition < windowHeight * 0.8) {
+                element.classList.add('animate');
+            } else {
+                element.classList.remove('animate');
+            }
+        }
+    });
+
+
     // Spinner
     var spinner = function () {
         setTimeout(function () {
