@@ -20,7 +20,7 @@ $currentPage = 'products';
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h6 class="display-5 text-white animated slideInRight">Extraction System</h6>
+            <h6 class="display-5 text-white animated slideInRight">Work Tables</h6>
         </div>
 
     </div>
@@ -37,31 +37,22 @@ $currentPage = 'products';
 
 
                 <p>
-                    Often overlooked but integral to your restaurant&#39;s functionality, commercial kitchen stainless
-                    steel
-                    exhaust hoods are a cornerstone of your ventilation system. At Meco Art, we recognize the
-                    significance
-                    of these hoods, which play a pivotal role in maintaining a clean and comfortable environment for
-                    both
-                    your staff and customers. Our extraction systems stand out for their exceptional energy efficiency
-                    and
-                    superior exhaust flow rates.
-                    Our custom-designed stainless steel exhaust hoods excel in capturing and ventilating grease, steam,
-                    smoke, fumes, and odors. These exhaust hoods are not only functional but also contribute to the
-                    aesthetics of your kitchen setup. They are meticulously crafted to seamlessly integrate into your
-                    commercial kitchen, ensuring optimal performance and compliance with safety standards.
-                    One of the standout features of our stainless steel exhaust hoods is their integration with
-                    high-powered
-                    fans. These components work tirelessly to eliminate odors and enhance indoor air quality,
-                    contributing
-                    to a fresher, healthier environment. By efficiently removing moisture, these hoods also combat
-                    increased humidity, mitigating the risks of mold, mildew, and bacteria growth.
-                    The importance of maintaining proper velocity within these systems cannot be overstated. Our
-                    commercial kitchen fans are engineered to ensure that all cooking contaminants are effectively drawn
-                    into the hood. This proactive approach prevents grease from accumulating throughout your kitchen,
-                    which not only guarantees a cleaner space but also reduces the risk of potentially devastating
-                    kitchen
-                    fires.
+                    When it comes to stainless steel work tables &amp; prep tables, the options are practically endless.
+                    With
+                    thousands of variations available, you can customize them to fit your kitchen&#39;s exact
+                    requirements.
+                    These tables can come with additional features like back or side panels, extra shelves, drawers,
+                    racks,
+                    caster wheels. Create functional, top-notch, and long-lasting spaces for food prep and storage with
+                    our
+                    diverse collection of commercial kitchen tables.
+                    Our tables are designed to make your life easier in the kitchen. They&#39;re not only practical, but
+                    they also
+                    offer high quality and durability, ensuring they can withstand the demands of a bustling kitchen.
+                    Easy to
+                    clean, they maintain maximum hygiene standards, which is essential in any culinary environment. From
+                    different sizes to various features, you can choose the perfect table that suits your specific
+                    venture.
                 </p>
 
 
@@ -74,39 +65,10 @@ $currentPage = 'products';
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid" src="https://www.solidcool.com.my/scpic/1%20bowl%20sink.jpg"
+                                    alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Robotic Automation</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
-                                    </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s"
-                            style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
-                            <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
-                                <a class="case-overlay text-decoration-none" href="">
-                                    <small>Machine learning</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
-                                    </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.7s"
-                            style="visibility: visible; animation-delay: 0.7s; animation-name: fadeIn;">
-                            <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
-                                <a class="case-overlay text-decoration-none" href="">
-                                    <small>Predictive Analysis</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
-                                    </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Single Bowl Sinks</h5>
                                 </a>
                             </div>
                         </div>
