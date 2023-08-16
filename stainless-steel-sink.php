@@ -72,8 +72,7 @@ $currentPage = 'products';
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img style="height: 350px;" class="img-fluid" src="https://image.made-in-china.com/43f34j00HMEUpGZbsKqT/Stainless-Steel-
-Round-Small-Size-Kitchen-Sink.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid" src="https://image.made-in-china.com/43f34j00HMEUpGZbsKqT/Stainless-Steel-Round-Small-Size-Kitchen-Sink.webp" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
                                     <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Double Bowl Sink</h5>
                                 </a>
@@ -82,8 +81,7 @@ Round-Small-Size-Kitchen-Sink.webp" alt="">
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img style="height: 350px;" class="img-fluid" src="https://5.imimg.com/data5/SELLER/Default/2022/10/GP/FG/DR/6456771/ss-
-three-bowl-sink-500x500.png" alt="">
+                                <img style="height: 350px;" class="img-fluid" src="https://5.imimg.com/data5/SELLER/Default/2022/10/GP/FG/DR/6456771/ss-three-bowl-sink-500x500.png" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
                                     <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Tripple Bowl Sink</h5>
                                 </a>
@@ -110,8 +108,7 @@ three-bowl-sink-500x500.png" alt="">
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img style="height: 350px;" class="img-fluid" src="https://www.washmaticindia.com/wp-
-content/uploads/2014/07/7.jpg" alt="">
+                                <img style="height: 350px;" class="img-fluid" src="https://www.washmaticindia.com/wp-content/uploads/2014/07/7.jpg" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
                                     <h5 class="text-center mt-1 text-primary fw-bold">Stainless Operated Hand wash Sink</h5>
                                 </a>
@@ -120,8 +117,7 @@ content/uploads/2014/07/7.jpg" alt="">
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img style="height: 350px;" class="img-fluid" src="https://cdn.webshopapp.com/shops/57149/files/62097304/800x1024x2/standard-hand-basin-with-
-button-foot-operated.jpg" alt="">
+                                <img style="height: 350px;" class="img-fluid" src="https://cdn.webshopapp.com/shops/57149/files/62097304/800x1024x2/standard-hand-basin-with-button-foot-operated.jpg" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
                                     <h5 class="text-center mt-1 text-primary fw-bold">Foot Operated Hand wash Sink</h5>
                                 </a>
@@ -130,8 +126,7 @@ button-foot-operated.jpg" alt="">
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img style="height: 350px;" class="img-fluid" src="https://juakaliproducts.co.ke/wp-content/uploads/2019/08/stainless-steel-hopper-
-sink-sale-nairobi-kenya.jpg" alt="">
+                                <img style="height: 350px;" class="img-fluid" src="https://juakaliproducts.co.ke/wp-content/uploads/2019/08/stainless-steel-hopper-sink-sale-nairobi-kenya.jpg" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
                                     <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Sluice Sink</h5>
                                 </a>
