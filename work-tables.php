@@ -62,16 +62,79 @@ $currentPage = 'products';
                         <h1 class="mb-4">Product Line</h1>
                     </div>
                     <div class="container row g-4">
+                        
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img style="height: 350px;" class="img-fluid" src="https://www.solidcool.com.my/scpic/1%20bowl%20sink.jpg"
-                                    alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://dq3atogbtxhm1.cloudfront.net/Images/Medium/20210222061527-7333cfae-75fd-4fa6-b979-0fef8bc26507.jpg" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Single Bowl Sinks</h5>
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Table With 2 underselves
+                                    </h5>
                                 </a>
                             </div>
                         </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://m.media-amazon.com/images/I/512qe0SJwCL.jpg" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Table With upstand
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUTymuH0PYEsxbX-KqwRoIm9Gz1RovHuX3w&amp;usqp=CAU" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Island Work Table
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://kitchensetup.com.au/wp-content/uploads/2020/05/wtcs-Work-Bench-Corner.jpg" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Corner Worktable 
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://i.pinimg.com/1200x/88/e8/d7/88e8d7317f468575f27affa60d201b59.jpg" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel L-Shaped Table
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://i.ebayimg.com/images/g/AyAAAOSwcABd5g6x/s-l1200.jpg" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Table With Over shelf 
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 

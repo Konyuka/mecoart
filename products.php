@@ -117,7 +117,7 @@ $currentPage = 'products';
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
                         <img class="img-fluid"
-                            src="https://i0.wp.com/craftsman.co.ke/wp-content/uploads/2022/10/bain_marie.jpg?fit=600%2C600&ssl=1"
+                            src="https://5.imimg.com/data5/WE/HJ/MY-23791231/bain-marie-counte-r-with-sneeze-guard-500x500.jpg"
                             alt="">
                         <div class="d-flex">
                             <a href="./servery-area.php" type="button" class="flex-shrink-0 btn-square bg-primary"

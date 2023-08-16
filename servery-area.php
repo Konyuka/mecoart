@@ -35,7 +35,6 @@ $currentPage = 'products';
 
             <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.5s">
 
-
                 <p>
                     With our custom service stations, you get all you need for top-notch service, space efficiency, and
                     consistent excellence. The personalized servery solutions give professional caterers the confidence
@@ -53,45 +52,105 @@ $currentPage = 'products';
                         <h1 class="mb-4">Product Line</h1>
                     </div>
                     <div class="container row g-4">
+
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://5.imimg.com/data5/SELLER/Default/2021/6/RO/IV/FX/22173496/work-table-with-2-overhead-shelves-500x500-250x250.jpg" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Robotic Automation</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Neutral Food Pass
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s"
-                            style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://for-sale.used-secondhand.co.uk/media/secondhand/images/65900/new-two-tier-stainless-steel-heated-gantry-free-delivery/new-two-tier-stainless-steel-heated-gantry-625.jpg" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Machine learning</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Heated Food Pass
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.7s"
-                            style="visibility: visible; animation-delay: 0.7s; animation-name: fadeIn;">
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://5.imimg.com/data5/IW/SG/YK/SELLER-5004236/stainless-steel-hot-bain-marie-four-container-standing-500x500.PNG" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Predictive Analysis</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">4 Container Bain Marie  
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://restaurant.store/wp-content/uploads/2021/03/BM1200.jpg" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">3 Container Bain Marie  
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.techwin.co.ke/wp-content/uploads/2021/10/02-9-1.jpg" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Table Top Bain Marie  
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://cksonline.com.au/wp-content/uploads/2021/01/9lchafing_dishRT_windowopen-min.jpg" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Chaffing Dishes  
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpGp4msR0ebETCjVOfWK6QRXXueTbf9lq9g&amp;usqp=CAU" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Food Warmer  
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://5.imimg.com/data5/OR/PI/QQ/SELLER-8671887/cold-display-counter.jpg" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Cold Display  
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        
+
                     </div>
                 </div>
 

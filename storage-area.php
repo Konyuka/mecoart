@@ -20,7 +20,7 @@ $currentPage = 'products';
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h6 class="display-5 text-white animated slideInRight">Servery Area</h6>
+            <h6 class="display-5 text-white animated slideInRight">Storage Area</h6>
         </div>
 
     </div>
@@ -59,47 +59,116 @@ $currentPage = 'products';
                         style="max-width: 500px; visibility: visible; animation-delay: 0.1s; animation-name: fadeIn;">
                         <h1 class="mb-4">Product Line</h1>
                     </div>
+
                     <div class="container row g-4">
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://storageworks.ae/wp-content/uploads/2021/02/Stainless-Steel-Shelves-dubai.jpg"
+                                    alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Robotic Automation</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Tier Rack
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s"
-                            style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid" src="https://5.imimg.com/data5/SELLER/Default/2020/9/YG/ZE/KW/1337297/ss-perforated-storage-rack-for-cold-rooms-500x500.jpg" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Machine learning</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Perforated Rack
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.7s"
-                            style="visibility: visible; animation-delay: 0.7s; animation-name: fadeIn;">
+    
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid" src="https://5.imimg.com/data5/OV/MS/MY-2337869/s-s-rack-250x250.jpg" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Predictive Analysis</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Slated Rack
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
+                                </a>
+                            </div>
+                        </div>
+    
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid" src="https://www.gsw-usa.com/485/stainless-steel-heavy-duty-double-over-shelf-for-work-
+    table-and-cold-table.jpg" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Wall Shelf
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+    
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid" src="https://www.casselin.com/1142-medium_default/wall-shelf-stainless-steel-
+    1200-mm.jpg" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Double Wall Shelf
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+    
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid" src="https://www.webstaurantstore.com/images/products/large/398610/2196461.jpg" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Tubular Double
+                                        Wall Shelf
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+    
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid" src="https://www.kitchendeals.ae/434-medium_default/stainless-steel-open-cabinet-with-middle-shelf.jpg" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Open Cabinet
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+    
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid" src="https://api.ggmgastro.com/img/1000/1000/resize/media/catalog/product/6/3/636846188123989663_7ddc.jpg" alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Closed Cabinet
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+    
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://grandpadesigns.com/wp-content/uploads/2021/05/Stainless-Steel-cabinet-trolley-02.jpg"
+                                    alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Cabinet Trolley
+                                    </h5>
                                 </a>
                             </div>
                         </div>
                     </div>
+
+
                 </div>
 
             </div>
