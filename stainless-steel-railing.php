@@ -20,7 +20,7 @@ $currentPage = 'products';
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h6 class="display-5 text-white animated slideInRight">Kitchen Drainage</h6>
+            <h6 class="display-5 text-white animated slideInRight">Stainless Steel Railing</h6>
         </div>
 
     </div>
@@ -37,27 +37,9 @@ $currentPage = 'products';
 
 
                 <p>
-                    In the world of commercial kitchens, cleanliness and functionality are paramount. That&#39;s why
-                    we&#39;ve
-                    designed our stainless steel floor drains with a focus on sanitation. Our comprehensive selection
-                    includes stainless steel floor drains, under sink grease traps, and a variety of floor drain
-                    accessories – all
-                    crafted to the highest standards. At Meco Art, we take pride in offering a range of drainage
-                    solutions
-                    that stand the test of time.
-                    Our drainage systems are built with longevity in mind. They&#39;re not only resistant to corrosion,
-                    but
-                    they&#39;re also engineered to prevent buildup and withstand the weight of heavy equipment. Whether
-                    it&#39;s
-                    the hustle and bustle of a busy restaurant kitchen or the demands of an industrial setup, our
-                    stainless
-                    steel floor drains are designed to excel.
-                    With a keen eye on sanitation and durability, our stainless steel floor drains are an investment in
-                    the
-                    long-term success of your commercial kitchen. Experience the difference of a drainage system that
-                    not
-                    only performs flawlessly but also contributes to the overall cleanliness and efficiency of your
-                    workspace.
+                    We offer a range of bakery equipment that empowers you to create confections that delight. From
+                    versatile ovens to efficient mixers and everything in between, our bakery equipment is designed to
+                    make your baking endeavors a true masterpiece.
                 </p>
 
 
@@ -68,53 +50,53 @@ $currentPage = 'products';
                     </div>
                     <div class="container row g-4">
 
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                        <div class="col-lg-3 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
                                 <img style="height: 350px;" class="img-fluid"
-                                    src="https://tools.electroluxprofessional.com/Mirror/Doc/PH_415x415%2FPH_328052_1_1_328052.jpg"
+                                    src="https://media.viewrail.com/wp-content/uploads/2019/08/18035055/VR_StainlessSidemount_-13.jpg"
                                     alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Floor Drains
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Cable Railing Systems
                                     </h5>
                                 </a>
                             </div>
                         </div>
 
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                        <div class="col-lg-3 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
                                 <img style="height: 350px;" class="img-fluid"
-                                    src="https://www.eboss.co.nz/assets/Uploads/detailed/2022/05/MC-Series-Moduilar-Channel-Drain-3000x1687px__FillWzE2MDAsOTAwXQ.jpg"
+                                    src="https://5.imimg.com/data5/ID/GQ/XJ/SELLER-91746912/stainless-steel-glass-railing-1000x1000.jpg"
                                     alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Floor Gratings
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel and Glass Railing 
                                     </h5>
                                 </a>
                             </div>
                         </div>
 
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                        <div class="col-lg-3 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
                                 <img style="height: 350px;" class="img-fluid"
-                                    src="https://www.grease-trap.com/images/2016/2.jpg"
+                                    src="https://i.pinimg.com/564x/d7/dc/47/d7dc476c93da9a2dbd146b9f3234cc2b.jpg"
                                     alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <h5 class="text-center mt-1 text-primary fw-bold">Under Sink Grease Trap
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Balcony Railing 
                                     </h5>
                                 </a>
                             </div>
                         </div>
 
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                        <div class="col-lg-3 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
                                 <img style="height: 350px;" class="img-fluid"
-                                    src="https://grydle-sync.com/wp-content/uploads/2019/08/000_1607.jpg"
+                                    src="https://cdn-amz.woka.io/images/I/715fAgchbwL.jpg"
                                     alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <h5 class="text-center mt-1 text-primary fw-bold">Underground Grease Trap
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Hand Rails 
                                     </h5>
                                 </a>
                             </div>

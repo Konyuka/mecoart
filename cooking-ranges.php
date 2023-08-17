@@ -65,19 +65,20 @@ $currentPage = 'products';
                         <h1 class="mb-4">Product Line</h1>
                     </div>
                     <div class="container row g-4">
+
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://images.africasokoni.co.ke/home-living/20210317/2%20(11).jpg"
+                                    alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Robotic Automation</small>
-                                    <h6 class="lh-base text-black mb-3">
-                                        Unibebe adi mbere ya kerendee.  
-                                        Sitambui wewee maunenge. Alfu tekwa ka kaparoo
-                                    </h6>
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Meat Mincer 
+                                    </h5>
                                 </a>
                             </div>
                         </div>
+                        
                     </div>
                 </div>
 

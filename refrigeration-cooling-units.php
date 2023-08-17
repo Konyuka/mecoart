@@ -20,7 +20,7 @@ $currentPage = 'products';
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h6 class="display-5 text-white animated slideInRight">Extraction System</h6>
+            <h6 class="display-5 text-white animated slideInRight">Refrigeration / Cooling Units</h6>
         </div>
 
     </div>
@@ -37,31 +37,12 @@ $currentPage = 'products';
 
 
                 <p>
-                    Often overlooked but integral to your restaurant&#39;s functionality, commercial kitchen stainless
-                    steel
-                    exhaust hoods are a cornerstone of your ventilation system. At Meco Art, we recognize the
-                    significance
-                    of these hoods, which play a pivotal role in maintaining a clean and comfortable environment for
-                    both
-                    your staff and customers. Our extraction systems stand out for their exceptional energy efficiency
-                    and
-                    superior exhaust flow rates.
-                    Our custom-designed stainless steel exhaust hoods excel in capturing and ventilating grease, steam,
-                    smoke, fumes, and odors. These exhaust hoods are not only functional but also contribute to the
-                    aesthetics of your kitchen setup. They are meticulously crafted to seamlessly integrate into your
-                    commercial kitchen, ensuring optimal performance and compliance with safety standards.
-                    One of the standout features of our stainless steel exhaust hoods is their integration with
-                    high-powered
-                    fans. These components work tirelessly to eliminate odors and enhance indoor air quality,
-                    contributing
-                    to a fresher, healthier environment. By efficiently removing moisture, these hoods also combat
-                    increased humidity, mitigating the risks of mold, mildew, and bacteria growth.
-                    The importance of maintaining proper velocity within these systems cannot be overstated. Our
-                    commercial kitchen fans are engineered to ensure that all cooking contaminants are effectively drawn
-                    into the hood. This proactive approach prevents grease from accumulating throughout your kitchen,
-                    which not only guarantees a cleaner space but also reduces the risk of potentially devastating
-                    kitchen
-                    fires.
+                    When it comes to preserving freshness, our refrigeration units are second to none. We source these
+                    units from the finest suppliers to ensure your ingredients remain at their best. From walk-in
+                    coolers to
+                    reach-in freezers, our refrigeration units maintain the ideal temperature and humidity levels,
+                    ensuring
+                    your culinary creations are nothing short of exceptional.
                 </p>
 
 
@@ -76,10 +57,10 @@ $currentPage = 'products';
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
                                 <img style="height: 350px;" class="img-fluid"
-                                    src="https://5.imimg.com/data5/QO/IN/MY-70208863/stainless-steel-kitchen-hood-prise-5000-runing-feet.jpg"
+                                    src="https://5.imimg.com/data5/OG/EE/CM/SELLER-89033036/western-commercial-freezer-250x250.jpg"
                                     alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Wall type hood 
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Commercial Single Door Fridge
                                     </h5>
                                 </a>
                             </div>
@@ -89,10 +70,10 @@ $currentPage = 'products';
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
                                 <img style="height: 350px;" class="img-fluid"
-                                    src="https://www.kitchenpro.gr/image/cache/data/uploads/202006/kentrikh_xoani_fouska_1-1300x1300.jpg"
+                                    src="https://static.restaurantsupply.com/media/catalog/product/cache/58705eee992a0d7bab305099af29f9ee/h/o/hoshizaki-er2a-fs.jpg"
                                     alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Central Hood 
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Commercial Double Door Fridge
                                     </h5>
                                 </a>
                             </div>
@@ -102,10 +83,10 @@ $currentPage = 'products';
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
                                 <img style="height: 350px;" class="img-fluid"
-                                    src="https://5.imimg.com/data5/JD/HL/EZ/SELLER-98836182/box-type-commercial-exhaust-hood-500x500.jpg"
+                                    src="https://sprinteriors.com//uploads/product/1669205303_image.png"
                                     alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Box Type Hood 
+                                    <h5 class="text-center mt-1 text-primary fw-bold">2 Door Under Counter Chiller
                                     </h5>
                                 </a>
                             </div>
@@ -115,10 +96,10 @@ $currentPage = 'products';
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
                                 <img style="height: 350px;" class="img-fluid"
-                                    src="https://5.imimg.com/data5/SO/FK/DC/SELLER-35979454/gi-ducting-500x500.jpeg"
+                                    src="https://restaurant.store/wp-content/uploads/2021/07/RTW180-1.png"
                                     alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <h5 class="text-center mt-1 text-primary fw-bold">G.I Ducting  
+                                    <h5 class="text-center mt-1 text-primary fw-bold">3 Door Under Counter Chiller
                                     </h5>
                                 </a>
                             </div>
@@ -128,10 +109,10 @@ $currentPage = 'products';
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
                                 <img style="height: 350px;" class="img-fluid"
-                                    src="https://5.imimg.com/data5/HQ/WD/MY-76541502/propeller-axial-fan-500x500.jpg"
+                                    src="https://www.cecateringequipment.com.au/image/cache/catalog/Products/Bromic/bromic-underbar-chiller-ubc1795gd-650x489.jpg"
                                     alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <h5 class="text-center mt-1 text-primary fw-bold">Propeller Axial Fan 
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Glassdoor Under Counter Chiller
                                     </h5>
                                 </a>
                             </div>
@@ -141,10 +122,36 @@ $currentPage = 'products';
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
                                 <img style="height: 350px;" class="img-fluid"
-                                    src="https://5.imimg.com/data5/QI/QX/JM/SELLER-33590922/industrial-centrifugal-air-blower.jpg"
+                                    src="https://www.questappliances.com/wp-content/uploads/2023/06/MCF420W-open-800x800-1.jpg"
                                     alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <h5 class="text-center mt-1 text-primary fw-bold">Centrifugal Fan 
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Chest Freezer
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://5.imimg.com/data5/ON/LP/MY-6456771/2-door-upright-chiller-500x500.jpg"
+                                    alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Upright Freezer
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://www.carltonservices.co.uk/wp/wp-content/uploads/2011/08/hiline.jpg"
+                                    alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Bottle Cooler
                                     </h5>
                                 </a>
                             </div>
