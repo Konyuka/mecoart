@@ -656,7 +656,7 @@ $currentPage = 'index';
             <div class="row g-4">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
-                        <img class="img-fluid" src="https://www.chalbiindustries.co.ke/img/logoa.jpg" alt="">
+                        <img style="object-fit:contain" class="img-fluid" src="https://pbs.twimg.com/profile_images/848849284439191553/rjTSuxkL_400x400.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -668,7 +668,7 @@ $currentPage = 'index';
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid"
+                        <img style="object-fit:contain" class="img-fluid"
                             src="https://upload.wikimedia.org/wikipedia/commons/0/03/Fairmont-schools-logo.jpg" alt="">
                     </div>
                 </div>
@@ -688,15 +688,15 @@ $currentPage = 'index';
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid"
+                        <img style="object-fit:contain" class="img-fluid"
                             src="https://www.tenderyetu.com/wp-content/uploads/2021/01/Kiambu-Institute-of-Science-and-Technology-TENDER.png"
                             alt="">
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid"
-                            src="data:image/jpeg;base64,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Y8tto9kpfYTf7q9M+nqfxMp40ZriRYPfVErMjU6SONOjGVR2GvUDkbDbbmfTHnx/jTCnUek7K9O3WrjWiplwzLgEE1CdONOMeoJmp9kp/YTfn4V8wfLzAPynRbU9jpTYEDwrsDzA8hHjfkZ66qPUr3CpcOiJb0qqaDSwC3e75KnK+BTv5+WBPilxU1morVrGitS1WsGUoupm97DMCPAMHT97fIE0nslP7CbjHury225cth+Ag2yEBSqYByBpXAPPIHQx40ZmrxKq9WqguKdMUxSKO7L4lZVc1NAUCoGJZPeAGnYA7yJ2gvw9G/V62hqYamlLUoyO6VgxB3bWWbfyG2CCZtHpKSGKqSvIkDI+B6T5e3RjllQnGMlVJx5ZPSRcbZ2InFBRe3YVWHc1FClgdsPhQwI5DcHPLrKC44ncWy3FPWK/dURUSrpGtMtpxVC+FiFywIAyFORNc6AgggEHmCNp80qKINKqqjyVQB+AlrjsZa9u6qW1w63KbIjJodHKEkgsXKjIfbA0jGDg+UitXqU6lemK7sPZu+Ut3OpWBcEr4caSAuxBAx6y/FsgGkImM5xpXGfPHnPn2Sn9hOg91egwBy8gB8pHjRn7S8eo9JKlVlU2qVQwKgux2Yljz0AKcD7e+dpGtb2vW9lVq7p3qXGooKQLhGASoupTgsuG228WwGxGqNtTIClEIByAVXAPPIHSfTUEJBKqSMYJAyMHIwfQx435FP2wIWxrZPJAMkj7SznaLiQWi3d1QrjQ2VKHwmoiHJIIAOr0PlyMuqlJWxqVWwcjIBx6jM8/Y6X2E3+6vr6ep/GTZRQX11WStUoa3LXCq1q2F8JB0uNhg6MipvnK5HSeHF76rTW/C13zRo02Qnu8qSrk/Vx4iBnbO+xG2NWKa7bDw7DYbdNvKebWlMnJRCTzJVc+f64kXG/Ioa1epSq1UWvqzbNWTvSmlWUkBsqBhDkE/sz74I9Wo61NdY0u6UkOaXiduZGkZAA8iFzjHWWV/wAPFSmy09NNiulXCDK7Yxtg4xtsRsdiJDsOBolZa3d0KbKpQLRTGrVjJc4GoDGy42ydz0auxeidnBOy4REQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQP/2Q=="
+                        <img style="object-fit:contain" class="img-fluid"
+                            src="https://www.thesafaricollection.com/wp-content/uploads/2021/03/The-Safari-Collection-Giraffe-Manor-logo.png"
                             alt="">
                     </div>
                 </div>
@@ -721,14 +721,14 @@ $currentPage = 'index';
                             alt="">
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid"
-                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBJCmfGgnej5BWgAEf8Us-7FeumHhBivtGzg&usqp=CAU"
+                        <img style="object-fit:contain" class="img-fluid"
+                            src="https://southernpalmskenya.com/wp-content/uploads/2020/02/admin-ajax-1.png"
                             alt="">
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
 
 
                     <div class="pt-5 mt-5 d-flex justify-content-center align-items-center text-center">
@@ -736,7 +736,7 @@ $currentPage = 'index';
                         <h1 class="display-5 mb-5"><i class="fas fa-plus"></i> 22 More</h1>
                     </div>
 
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -769,7 +769,7 @@ $currentPage = 'index';
                             Meco Art Limited to other restaurants looking to upgrade their kitchen
                         </p>
                         <h5 class="mb-1">Jane Rotich</h5>
-                        <span class="fst-italic">Operations Manager, Talk Duka</span>
+                        <span class="fst-italic">Giraffe Manor</span>
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
@@ -789,7 +789,7 @@ $currentPage = 'index';
                             services to anyone in the food industry looking for a kitchen upgrade
                         </p>
                         <h5 class="mb-1">Isaiah Mbugua</h5>
-                        <span class="fst-italic">CEO, Imaginative Brands</span>
+                        <span class="fst-italic">Fogo Gaucho</span>
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
@@ -809,7 +809,7 @@ $currentPage = 'index';
                             We highly recommend them
                         </p>
                         <h5 class="mb-1">Mark Siele</h5>
-                        <span class="fst-italic">Manager, Elkana Resorts</span>
+                        <span class="fst-italic">Casa Vera</span>
                     </div>
                 </div>
             </div>
