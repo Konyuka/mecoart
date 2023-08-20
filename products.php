@@ -30,7 +30,7 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                        <img class="img-fluid" src="./img/range.jpg" alt="">
                         <div class="d-flex">
                             <!-- data-bs-toggle="modal" data-bs-target="#cookingRanges" -->
                             <a href="./cooking-ranges.php" type="button" class="flex-shrink-0 btn-square bg-primary"

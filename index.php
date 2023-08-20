@@ -503,7 +503,7 @@ $currentPage = 'index';
                 </div>
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item">
-                        <img class="img-fluid" src="img/orange.png" alt="">
+                        <img class="img-fluid" src="img/orange.webp" alt="">
                         <div class="service-img relative">
                             <i class="fas fa-toolbox icon-center"></i>
                         </div>
@@ -553,7 +553,7 @@ $currentPage = 'index';
                 </div>
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item">
-                        <img class="img-fluid" src="img/orange.png" alt="">
+                        <img class="img-fluid" src="img/orange.webp" alt="">
                         <div class="service-img relative">
                             <i class="fas fa-handshake icon-center"></i>
                         </div>
@@ -601,7 +601,7 @@ $currentPage = 'index';
                 </div>
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item">
-                        <img class="img-fluid" src="img/orange.png" alt="">
+                        <img class="img-fluid" src="img/orange.webp" alt="">
                         <div class="service-img relative">
                             <i class="fas fa-wrench icon-center"></i>
                         </div>
