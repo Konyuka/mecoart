@@ -113,7 +113,7 @@ three-bowl-sink-500x500.png" alt="">
                                 <img style="height: 350px;" class="img-fluid" src="https://www.washmaticindia.com/wp-
 content/uploads/2014/07/7.jpg" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Operated Hand wash Sink</h5>
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Knee Operated Hand wash Sink</h5>
                                 </a>
                             </div>
                         </div>

@@ -85,7 +85,7 @@ $currentPage = 'products';
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
                                 <img style="height: 350px;" class="img-fluid"
-                                    src="https://www.eboss.co.nz/assets/Uploads/detailed/2022/05/MC-Series-Moduilar-Channel-Drain-3000x1687px__FillWzE2MDAsOTAwXQ.jpg"
+                                    src="https://awimfg.com/wp-content/uploads/2018/02/Bar-Grate-Collections-IMG_2227-20A-Sq.jpg"
                                     alt="">
                                 <a class="case-overlay text-decoration-none" href="">
                                     <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Floor Gratings
@@ -98,7 +98,7 @@ $currentPage = 'products';
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
                                 <img style="height: 350px;" class="img-fluid"
-                                    src="https://www.grease-trap.com/images/2016/2.jpg"
+                                    src="https://big-dipper.com/pub/media/wysiwyg/HomePages/pictures/Grease-Trap.jpg"
                                     alt="">
                                 <a class="case-overlay text-decoration-none" href="">
                                     <h5 class="text-center mt-1 text-primary fw-bold">Under Sink Grease Trap

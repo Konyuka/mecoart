@@ -178,7 +178,7 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNKUm1ZLQ1ArCQbDmNrP7-vMcTvSfJkiNDZA&amp;usqp=CAU" alt="">
+                        <img class="img-fluid" src="https://www.drinkstuff.com/productimg/87313_large.jpg" alt="">
                         <div class="d-flex">
                             <a href="./refrigeration-cooling-units.php" type="button" class="flex-shrink-0 btn-square bg-primary"
                                 style="width: 90px; height: 90px;">
@@ -201,7 +201,7 @@ $currentPage = 'products';
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
                         <img class="img-fluid"
-                            src="https://procook.com.au/wp-content/uploads/2014/10/Food-Preparation-Equipment-300x224.jpg"
+                            src="https://www.restaurantsupply.com/media/catalog/category/food-preparation_2.jpg"
                             alt="">
                         <div class="d-flex">
                             <a href="./preparation-units.php" type="button" class="flex-shrink-0 btn-square bg-primary"

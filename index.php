@@ -650,13 +650,14 @@ $currentPage = 'index';
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="fw-medium text-uppercase text-primary mb-2">Our Clients</p>
-                <h1 class="display-5 mb-5">Projects Portfolio</h1>
+                <p class="fw-medium text-uppercase text-primary mb-2">Projects</p>
+                <h1 class="display-5 mb-5">OUR CLIENTS</h1>
             </div>
             <div class="row g-4">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
-                        <img style="object-fit:contain" class="img-fluid" src="https://pbs.twimg.com/profile_images/848849284439191553/rjTSuxkL_400x400.jpg" alt="">
+                        <img style="object-fit:contain" class="img-fluid"
+                            src="https://pbs.twimg.com/profile_images/848849284439191553/rjTSuxkL_400x400.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -724,8 +725,7 @@ $currentPage = 'index';
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
                         <img style="object-fit:contain" class="img-fluid"
-                            src="https://southernpalmskenya.com/wp-content/uploads/2020/02/admin-ajax-1.png"
-                            alt="">
+                            src="https://southernpalmskenya.com/wp-content/uploads/2020/02/admin-ajax-1.png" alt="">
                     </div>
                 </div>
                 <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -761,11 +761,11 @@ $currentPage = 'index';
                     </div>
                     <div class="testimonial-text text-center rounded p-4">
                         <p>
-                            We recently upgraded to a new commercial kitchen and it has made all the difference in our
-                            restaurant's operation. The new equipment is top-of-the-line and has increased our
-                            efficiency and productivity. The ovens heat up quickly and cook food evenly, the grills are
-                            large enough to handle a high volume of orders, and the dishwashing station has cut down on
-                            our cleaning time. We are extremely happy with our purchase and highly recommend
+                            We recently upgraded to our kitchen and it has made all the difference in our
+                            restaurant's operation. The new equipment is more reliable and has increased our
+                            efficiency and productivity. The combined cooking range has saved up lots of space enabling us to add
+                            additional equipment. We are extremely happy with our purchase and
+                            highly recommend
                             Meco Art Limited to other restaurants looking to upgrade their kitchen
                         </p>
                         <h5 class="mb-1">Jane Rotich</h5>
@@ -782,7 +782,7 @@ $currentPage = 'index';
                     </div>
                     <div class="testimonial-text text-center rounded p-4">
                         <p>
-                            Our commercial kitchen was in dire need of an upgrade, and we are so grateful we chose
+                            Our kitchen was in dire need of an upgrade, and we are so grateful we chose
                             Meco Art Limited to help us with the renovation. They were professional, knowledgeable and
                             efficient throughout the entire process. The new equipment is top-of-the-line and has made a
                             huge difference in the efficiency and quality of our food. We highly recommend their
@@ -803,7 +803,7 @@ $currentPage = 'index';
                     <div class="testimonial-text text-center rounded p-4">
                         <p>
                             We were looking for a reliable and experienced company to help us design and install our new
-                            commercial kitchen, and we found that in Meco Art Limited. They listened to our needs and
+                            kitchen, and we found that in Meco Art Limited. They listened to our needs and
                             provided us with a great layout and equipment that has exceeded our expectations. The
                             kitchen is now a joy to work in and has significantly increased our production and quality.
                             We highly recommend them
