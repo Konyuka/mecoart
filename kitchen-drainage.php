@@ -67,45 +67,59 @@ $currentPage = 'products';
                         <h1 class="mb-4">Product Line</h1>
                     </div>
                     <div class="container row g-4">
+
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://tools.electroluxprofessional.com/Mirror/Doc/PH_415x415%2FPH_328052_1_1_328052.jpg"
+                                    alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Robotic Automation</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Floor Drains
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s"
-                            style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://awimfg.com/wp-content/uploads/2018/02/Bar-Grate-Collections-IMG_2227-20A-Sq.jpg"
+                                    alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Machine learning</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Floor Gratings
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.7s"
-                            style="visibility: visible; animation-delay: 0.7s; animation-name: fadeIn;">
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://big-dipper.com/pub/media/wysiwyg/HomePages/pictures/Grease-Trap.jpg"
+                                    alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Predictive Analysis</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Under Sink Grease Trap
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://grydle-sync.com/wp-content/uploads/2019/08/000_1607.jpg"
+                                    alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Underground Grease Trap
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 

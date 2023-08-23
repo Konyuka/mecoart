@@ -77,7 +77,7 @@ $currentPage = 'products';
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img style="height: 350px;" class="img-fluid" src="https://5.imimg.com/data5/SELLER/Default/2020/9/YG/ZE/KW/1337297/ss-perforated-storage-rack-for-cold-rooms-500x500.jpg" alt="">
+                                <img style="height: 350px;" class="img-fluid" src="https://www.slingsby.com/media/catalog/product/b/a/base118896.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
                                     <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Perforated Rack
                                     </h5>

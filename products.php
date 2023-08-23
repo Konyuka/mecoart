@@ -30,14 +30,14 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                        <img class="img-fluid" src="./img/range.jpg" alt="">
                         <div class="d-flex">
                             <!-- data-bs-toggle="modal" data-bs-target="#cookingRanges" -->
                             <a href="./cooking-ranges.php" type="button" class="flex-shrink-0 btn-square bg-primary"
                                 style="width: 90px; height: 90px;">
                                 <span class="text-white">
                                     <p style="color: white">
-                                        Read <br> More
+                                        View <br> More
                                     </p>
                                 </span>
                             </a>
@@ -59,7 +59,7 @@ $currentPage = 'products';
                                 class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <span class="text-white">
                                     <p style="color: white">
-                                        Read <br> More
+                                        View <br> More
                                     </p>
                                 </span>
                             </a>
@@ -80,7 +80,7 @@ $currentPage = 'products';
                                 <!-- <i class="fa fa-2x fa-info text-white"></i> -->
                                 <span class="text-white">
                                     <p style="color: white">
-                                        Read <br> More
+                                        View <br> More
                                     </p>
                                 </span>
                             </a>
@@ -102,7 +102,7 @@ $currentPage = 'products';
                                 style="width: 90px; height: 90px;">
                                 <span class="text-white">
                                     <p style="color: white">
-                                        Read <br> More
+                                        View <br> More
                                     </p>
                                 </span>
                             </a>
@@ -124,7 +124,7 @@ $currentPage = 'products';
                                 style="width: 90px; height: 90px;">
                                 <span class="text-white">
                                     <p style="color: white">
-                                        Read <br> More
+                                        View <br> More
                                     </p>
                                 </span>
                             </a>
@@ -144,13 +144,13 @@ $currentPage = 'products';
                                 class="flex-shrink-0 btn-square bg-primary" style="width: 90px; height: 90px;">
                                 <span class="text-white">
                                     <p style="color: white">
-                                        Read <br> More
+                                        View <br> More
                                     </p>
                                 </span>
                             </a>
                             <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4"
                                 style="height: 90px;">
-                                <h5>Extraction Hood</h5>
+                                <h5>Extraction Hoods</h5>
                             </div>
                         </div>
                     </div>
@@ -158,13 +158,13 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/bake.webp" alt="">
+                        <img class="img-fluid" src="https://www.monoequip.com/UserFiles/images/cms-products/800-x-600-10-Tray-Classic-O.png" alt="">
                         <div class="d-flex">
                             <a href="./bakery-equipment.php" type="button" class="flex-shrink-0 btn-square bg-primary"
                                 style="width: 90px; height: 90px;">
                                 <span class="text-white">
                                     <p style="color: white">
-                                        Read <br> More
+                                        View <br> More
                                     </p>
                                 </span>
                             </a>
@@ -178,13 +178,82 @@ $currentPage = 'products';
 
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <img class="img-fluid" src="img/rails.webp" alt="">
+                        <img class="img-fluid" src="https://www.drinkstuff.com/productimg/87313_large.jpg" alt="">
                         <div class="d-flex">
-                            <a href="./bakery-equipment.php" type="button" class="flex-shrink-0 btn-square bg-primary"
+                            <a href="./refrigeration-cooling-units.php" type="button" class="flex-shrink-0 btn-square bg-primary"
                                 style="width: 90px; height: 90px;">
                                 <span class="text-white">
                                     <p style="color: white">
-                                        Read <br> More
+                                        View <br> More
+                                    </p>
+                                </span>
+                            </a>
+                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4"
+                                style="height: 90px;">
+                                <h5>
+                                    Cooling Equipment
+                                </h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item">
+                        <img class="img-fluid"
+                            src="https://www.restaurantsupply.com/media/catalog/category/food-preparation_2.jpg"
+                            alt="">
+                        <div class="d-flex">
+                            <a href="./preparation-units.php" type="button" class="flex-shrink-0 btn-square bg-primary"
+                                style="width: 90px; height: 90px;">
+                                <span class="text-white">
+                                    <p style="color: white">
+                                        View <br> More
+                                    </p>
+                                </span>
+                            </a>
+                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4"
+                                style="height: 90px;">
+                                <h5>
+                                    Preparation Units
+                                </h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item">
+                        <img class="img-fluid"
+                            src="./img/real/8.jpeg"
+                            alt="">
+                        <div class="d-flex">
+                            <a href="./gas-installation.php" type="button" class="flex-shrink-0 btn-square bg-primary"
+                                style="width: 90px; height: 90px;">
+                                <span class="text-white">
+                                    <p style="color: white">
+                                        View <br> More
+                                    </p>
+                                </span>
+                            </a>
+                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4"
+                                style="height: 90px;">
+                                <h5>LPG Installation </h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item">
+                        <img class="img-fluid" src="img/rails.webp" alt="">
+                        <div class="d-flex">
+                            <a href="./stainless-steel-railing.php" type="button" class="flex-shrink-0 btn-square bg-primary"
+                                style="width: 90px; height: 90px;">
+                                <span class="text-white">
+                                    <p style="color: white">
+                                        View <br> More
                                     </p>
                                 </span>
                             </a>
@@ -202,14 +271,14 @@ $currentPage = 'products';
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
                         <img class="img-fluid"
-                            src="https://designerdrains.com/wp-content/uploads/2018/02/Designer-Drains-36-Inch-Linear.jpg"
+                            src="https://www.eboss.co.nz/assets/Uploads/detailed/2022/05/MC-Series-Moduilar-Channel-Drain-3000x1687px__FillWzE2MDAsOTAwXQ.jpg"
                             alt="">
                         <div class="d-flex">
                             <a href="./kitchen-drainage.php" type="button" class="flex-shrink-0 btn-square bg-primary"
                                 style="width: 90px; height: 90px;">
                                 <span class="text-white">
                                     <p style="color: white">
-                                        Read <br> More
+                                        View <br> More
                                     </p>
                                 </span>
                             </a>
@@ -223,27 +292,6 @@ $currentPage = 'products';
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="team-item">
-                        <img class="img-fluid"
-                            src="https://www.auckland.plumbing/wp-content/uploads/2014/08/commercial_gas_installation.jpg"
-                            alt="">
-                        <div class="d-flex">
-                            <a href="./gas-installation.php" type="button" class="flex-shrink-0 btn-square bg-primary"
-                                style="width: 90px; height: 90px;">
-                                <span class="text-white">
-                                    <p style="color: white">
-                                        Read <br> More
-                                    </p>
-                                </span>
-                            </a>
-                            <div class="position-relative overflow-hidden bg-light d-flex flex-column justify-content-center w-100 ps-4"
-                                style="height: 90px;">
-                                <h5>LPG Installation </h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
 
 

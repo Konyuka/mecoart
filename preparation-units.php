@@ -20,7 +20,7 @@ $currentPage = 'products';
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h6 class="display-5 text-white animated slideInRight">Bakery Equipment</h6>
+            <h6 class="display-5 text-white animated slideInRight">Preparation Units</h6>
         </div>
 
     </div>
@@ -37,9 +37,13 @@ $currentPage = 'products';
 
 
                 <p>
-                    We offer a range of bakery equipment that empowers you to create confections that delight. From
-                    versatile ovens to efficient mixers and everything in between, our bakery equipment is designed to
-                    make your baking endeavors a true masterpiece.
+                    Efficiency in the kitchen begins with proper preparation, and our preparation units are engineered
+                    to
+                    streamline your processes. Whether it&#39;s chopping, slicing, or dicing, our units offer ergonomic
+                    designs
+                    and functionality that elevate your kitchen&#39;s productivity. With ample workspace and intuitive
+                    features,
+                    our preparation units are an indispensable asset in any culinary setup.
                 </p>
 
 
@@ -49,45 +53,124 @@ $currentPage = 'products';
                         <h1 class="mb-4">Product Line</h1>
                     </div>
                     <div class="container row g-4">
+
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://i.roamcdn.net/hz/pi/listing-thumb-543w/201dc226d7240955d63a5b2d1ed01ef4/-/horizon-files-prod/pi/picture/q0qkgr8/4cfa20562567db1c06ca2181992a057af30bb796.jpg"
+                                    alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Robotic Automation</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Meat Slicer 
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s"
-                            style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://images.africasokoni.co.ke/home-living/20210317/2%20(11).jpg"
+                                    alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Machine learning</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Meat Mincer 
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.7s"
-                            style="visibility: visible; animation-delay: 0.7s; animation-name: fadeIn;">
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://www.chinalinkrich.com/wp-content/uploads/2021/08/20220824117.jpg"
+                                    alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Predictive Analysis</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Bone Saw Machine 
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://www.johnboos.com/wp-content/uploads/2020/05/CUCLA24T_CUCLA24B_1-600x600.jpg"
+                                    alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Butcher Block 
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://5.imimg.com/data5/SELLER/Default/2022/12/NR/GM/PT/20357289/potato-peeler-500x500.jpeg"
+                                    alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Potato Peeler
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://media.twothousand.com/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/t/tt-f60_vc60ms___02.jpg"
+                                    alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Vegetable Cutter 
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/04/6865511/1.jpg?0761"
+                                    alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Juicer 
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/96/965476/1.jpg?6765"
+                                    alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Dough Mixer 
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://5.imimg.com/data5/VT/BD/KA/SELLER-6637634/dough-sheeter-machine-1000x1000.jpg"
+                                    alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Dough Sheeter 
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 

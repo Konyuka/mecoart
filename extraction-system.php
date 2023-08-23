@@ -71,45 +71,85 @@ $currentPage = 'products';
                         <h1 class="mb-4">Product Line</h1>
                     </div>
                     <div class="container row g-4">
+
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://5.imimg.com/data5/QO/IN/MY-70208863/stainless-steel-kitchen-hood-prise-5000-runing-feet.jpg"
+                                    alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Robotic Automation</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Wall type hood 
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s"
-                            style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://www.kitchenpro.gr/image/cache/data/uploads/202006/kentrikh_xoani_fouska_1-1300x1300.jpg"
+                                    alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Machine learning</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Central Hood 
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.7s"
-                            style="visibility: visible; animation-delay: 0.7s; animation-name: fadeIn;">
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="img/real/cookingrange.webp" alt="">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://5.imimg.com/data5/JD/HL/EZ/SELLER-98836182/box-type-commercial-exhaust-hood-500x500.jpg"
+                                    alt="">
                                 <a class="case-overlay text-decoration-none" href="">
-                                    <small>Predictive Analysis</small>
-                                    <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore
-                                        amet labore clita
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Box Type Hood 
                                     </h5>
-                                    <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
                                 </a>
                             </div>
                         </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://5.imimg.com/data5/SO/FK/DC/SELLER-35979454/gi-ducting-500x500.jpeg"
+                                    alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">G.I Ducting  
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://5.imimg.com/data5/HQ/WD/MY-76541502/propeller-axial-fan-500x500.jpg"
+                                    alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Propeller Axial Fan 
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                            <div class="case-item position-relative overflow-hidden rounded mb-2">
+                                <img style="height: 350px;" class="img-fluid"
+                                    src="https://5.imimg.com/data5/QI/QX/JM/SELLER-33590922/industrial-centrifugal-air-blower.jpg"
+                                    alt="">
+                                <a class="case-overlay text-decoration-none" href="">
+                                    <h5 class="text-center mt-1 text-primary fw-bold">Centrifugal Fan 
+                                    </h5>
+                                </a>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 

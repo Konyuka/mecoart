@@ -52,20 +52,26 @@ $currentPage = 'about';
                     </div>
 
                     <div class="mt-5">
-                        <h1 class="display-5 mb-4">Who we work with</h1>
+                        <h2 class="display-5 mb-4">Who we work with</h2>
                         <div class="fw-medium  text-primary mb-2">
-                            <div class="row">
-                                <span class="col-6">
-                                    <i class="fas fas-caret-right"> </i> Restaurants/Hotels
+                            <div class="row" style="font-size:20px">
+                                <span class="col-6 mb-4">
+                                    <i class="fas fa-chevron-right text-primary"> </i> Restaurants/Hotels
                                 </span>
-                                <span class="col-6">
-                                    <i class="fas fas-caret-right"> </i> Hospitals
+                                <span class="col-6 mb-4">
+                                    <i class="fas fa-chevron-right text-primary"> </i> Hospitals/Schools
                                 </span>
-                                <span class="col-6">
-                                    <i class="fas fas-caret-right"> </i> Institutions/Schools
+                                <span class="col-6 mb-4">
+                                    <i class="fas fa-chevron-right text-primary"> </i> Institutions/Corporates
                                 </span>
-                                <span class="col-6">
-                                    <i class="fas fas-caret-right"> </i> Fast foods/Cafes
+                                <span class="col-6 mb-4">
+                                    <i class="fas fa-chevron-right text-primary"> </i> Fast foods/Cafes
+                                </span>
+                                <span class="col-6 mb-4">
+                                    <i class="fas fa-chevron-right text-primary"> </i> Food processing Firms
+                                </span>
+                                <span class="col-6 mb-4">
+                                    <i class="fas fa-chevron-right text-primary"> </i> Bakery / Supermarkets
                                 </span>
                             </div>
                         </div>
