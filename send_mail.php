@@ -4,45 +4,36 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 require 'vendor/autoload.php';
 
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+$dotenv->load();
+
+// var_dump(getenv('SMTP_PASSWORD'));
+
 $mail = new PHPMailer(true);
 $mail->SMTPDebug = 0;
 $mail->isSMTP();
-$mail->Host = 'smtp.gmail.com';
+$mail->Host = 'smtp.googlemail.com';
 $mail->SMTPAuth = true;
-$mail->Username = 'joshuaclifford254@gmail.com';
-$mail->Password = 'oypsdddjdapaqkoz';
+$mail->Username = 'michaelsaiba84@gmail.com';
+$mail->Password = 'ygxvsqgfobrtmbof';
+// $mail->Password = getenv('SMTP_PASSWORD');
 $mail->SMTPSecure = 'ssl';
-// $mail->SMTPSecure = 'tls';
 $mail->Port = 465;
-// $mail->Port = 587;
 
-$mail->setFrom('leads@mecoartltd.co,ke', 'Meco Art Lead Form');
-$mail->addAddress('michaelsaiba84@gmail.com', 'Recipient Name');
-$mail->Subject = 'Subject of the email';
-$mail->Body = 'Body of the email';
+$mail->setFrom('leads@mecoartltd.co.ke', 'Meco Art Lead Form');
+$mail->addAddress('sales@mecoartltd.co.ke', 'Meco Art Support');
+$mail->Subject = 'New Lead From Meco Website';
 
+$mail->Body = 'Name: ' . $_POST['name']. "\n" .  
+              'Phone: '.$_POST['phone']. "\n" .
+              'Email: '.$_POST['email']. "\n" .
+              'Message: '.$_POST['message'];
 $mail->send();
 
-var_dump($mail);
+session_start();
+$_SESSION['email_sent'] = true;
 
-return;
+header('Location: contact.php');
+exit();
 
-$to = 'michaelsaiba84@gmail.com';
-
-$subject = 'LEAD FROM WEBSITE';
-
-$name = isset($_POST['name']) ? $_POST['name'] : '';
-$email = isset($_POST['email']) ? $_POST['email'] : '';
-$phone = isset($_POST['phone']) ? $_POST['phone'] : '';
-$message = isset($_POST['message']) ? $_POST['message'] : '';
-
-$message = 'Name: ' . $_POST['name'] . "\r\n" .
-    'Email: ' . $_POST['email'] . "\r\n" .
-    'Phone: ' . $_POST['phone'] . "\r\n";
-    'Message: ' . $_POST['message'] . "\r\n";
-$headers = 'From: ' . $_POST['email'] . "\r\n" .
-    'Reply-To: ' . $_POST['email'] . "\r\n" .
-    'X-Mailer: PHP/' . phpversion();
-
-mail($to, $subject, $message, $headers);
 ?>

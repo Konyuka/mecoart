@@ -4,11 +4,14 @@
 <?php include
     './components/header.html';
 $currentPage = 'contact';
+session_start();
+
 ?>
 
 <body>
     <!-- Spinner Start -->
-    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+    <div id="spinner"
+        class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;"></div>
     </div>
     <!-- Spinner End -->
@@ -36,6 +39,14 @@ $currentPage = 'contact';
     <!-- Contact Start -->
     <div class="container-xxl py-5">
         <div class="container">
+            <?php
+            
+            if (isset($_SESSION['email_sent']) && $_SESSION['email_sent']) {
+                echo '<h1 class="text-primary text-center m-5">Email sent successfully!</h1>';
+                unset($_SESSION['email_sent']);
+            }
+            
+            ?>
             <div class="row g-5 justify-content-center mb-5">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="bg-light text-center h-100 p-5">
@@ -44,7 +55,8 @@ $currentPage = 'contact';
                         </div>
                         <h4 class="mb-3">Phone Number</h4>
                         <p class="mb-2">+254 704 123 574</p>
-                        <a class="btn btn-primary px-4" href="tel:+254704123574">Call Now <i class="fa fa-arrow-right ms-2"></i></a>
+                        <a class="btn btn-primary px-4" href="tel:+254704123574">Call Now <i
+                                class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -54,7 +66,8 @@ $currentPage = 'contact';
                         </div>
                         <h4 class="mb-3">Email Address</h4>
                         <p class="mb-2">sales@mecoartltd.co.ke</p>
-                        <a class="btn btn-primary px-4" href="mailto:sales@mecoartltd.co.ke">Email Now <i class="fa fa-arrow-right ms-2"></i></a>
+                        <a class="btn btn-primary px-4" href="mailto:sales@mecoartltd.co.ke">Email Now <i
+                                class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -64,13 +77,17 @@ $currentPage = 'contact';
                         </div>
                         <h4 class="mb-3">Office Address</h4>
                         <p class="mb-2">Delpack business complex, Donholm, Nairobi, Kenya</p>
-                        <a class="btn btn-primary px-4" href="https://goo.gl/maps/FsznshxgnULBGgkN9" target="blank">Direction <i class="fa fa-arrow-right ms-2"></i></a>
+                        <a class="btn btn-primary px-4" href="https://goo.gl/maps/FsznshxgnULBGgkN9"
+                            target="blank">Direction <i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
             <div class="row mb-5">
                 <div class="col-12 wow fadeInUp" data-wow-delay="0.1s">
-                    <iframe class="w-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.3921869609483!2d36.89085511456263!3d-1.3044260599174928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f13c81cf67667%3A0x48029dfe9642ad02!2sMeco%20Art%20Commercial%20Kitchen!5e0!3m2!1sen!2ske!4v1677513373181!5m2!1sen!2ske" frameborder="0" style="min-height: 450px; border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    <iframe class="w-100"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.3921869609483!2d36.89085511456263!3d-1.3044260599174928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f13c81cf67667%3A0x48029dfe9642ad02!2sMeco%20Art%20Commercial%20Kitchen!5e0!3m2!1sen!2ske!4v1677513373181!5m2!1sen!2ske"
+                        frameborder="0" style="min-height: 450px; border:0;" allowfullscreen="" aria-hidden="false"
+                        tabindex="0"></iframe>
                 </div>
             </div>
             <div class="row g-5">
@@ -107,31 +124,38 @@ $currentPage = 'contact';
                         <div class="row g-3">
                             <div class="col-md-12">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control" id="name" name="name" placeholder="Your Name">
+                                    <input type="text" class="form-control" id="name" name="name"
+                                        placeholder="Your Name">
                                     <label for="name">Your Name</label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <input type="email" class="form-control" id="email" email="email" placeholder="Your Email">
+                                    <input type="email" class="form-control" id="email" name="email"
+                                        placeholder="Your Email">
                                     <label for="email">Your Email</label>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="form-floating">
-                                    <input type="number" class="form-control" id="phone" name="phone" placeholder="Your Phone">
+                                    <input type="number" class="form-control" id="phone" name="phone"
+                                        placeholder="Your Phone">
                                     <label for="phone">Your Phone</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <textarea class="form-control" placeholder="Leave a message here" id="message" message="message" style="height: 150px"></textarea>
+                                    <textarea class="form-control" placeholder="Leave a message here" id="message"
+                                        name="message" style="height: 150px"></textarea>
                                     <label for="message">Message</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <button class="btn btn-primary py-3 px-5" type="submit">Send Message</button>
                             </div>
+
+
+
                         </div>
                     </form>
                 </div>
@@ -144,7 +168,8 @@ $currentPage = 'contact';
 
 
     <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i
+            class="bi bi-arrow-up"></i></a>
 
 
     <!-- JavaScript Libraries -->
