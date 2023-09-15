@@ -85,31 +85,30 @@ $currentPage = 'about';
                     <h1 class="display-5 mb-4">Meco Art Limited</h1>
                     <p class="mb-4">
                         Welcome to Meco Art Limited, your one-stop shop for all your commercial kitchen equipment needs.
-                        We have been in the industry for 6 years and have built a reputation for providing top-quality
-                        equipment at competitive prices.
-
-                        Our mission is to provide our customers with the best equipment and service, so they can focus
-                        on what they do best - making delicious food. We understand that every kitchen is different, and
-                        we strive to offer a wide range of products to meet the unique needs of our customers.
-
-                        We are a team of experienced industry professionals with a passion for food and a deep
-                        understanding of the equipment that goes into a successful kitchen. Our founders have over 6
-                        years of experience in the industry and have built a team of experts who share their passion.
-
-                        We offer a wide range of products, including cookers, ovens, refrigeration, and more. Our
-                        equipment is energy-efficient, durable and easy to clean, ensuring that your kitchen runs
-                        smoothly and efficiently.
-
-                        We are proud to be a authorized supplier, and our equipment is certified for quality and safety.
-                        We also partner with other industry-leading brands to offer our customers the best selection of
-                        equipment.
-
-                        If you have any questions or need help selecting the right equipment for your kitchen, please
-                        don't hesitate to contact us. Our team is here to help, and we would be happy to answer any
-                        questions you may have.
-
-                        Thank you for choosing Meco Art Limited. We look forward to working with you to equip your
-                        kitchen for success.
+                        With a steadfast presence in the industry for over 7 years, we&#39;ve cultivated a reputation as
+                        a reliable
+                        source for top-tier equipment at competitive prices. Our mission is to provide our clients with
+                        the best
+                        equipment and service, so they can focus on what they do best - making delicious food. We
+                        understand
+                        that every kitchen is different, and thus, our extensive product range caters to the different
+                        demands of
+                        our clientele. We are a team of experienced industry professionals who are passionate about the
+                        hospitality Industry and have a deep understanding of the equipment that goes into a successful
+                        commercial kitchen. We offer a wide range of products, including cooking ranges, preparation
+                        units,
+                        refrigeration, ventilation systems and more. Our equipment is energy-efficient, durable and easy
+                        to
+                        clean, ensuring that your kitchen runs smoothly and efficiently. As accredited suppliers, our
+                        equipment
+                        bears the hallmark of quality and safety, aligning with the highest industry standards. We have
+                        partnered with other industry-leading brands to add more options to our collection, so you have
+                        lots of
+                        great equipment to choose from. Should you require guidance or assistance in selecting the
+                        perfect
+                        equipment for your kitchen, our team is at your service. Do not hesitate to reach out with your
+                        inquiries,
+                        as we are dedicated to providing comprehensive solutions tailored to your needs.
 
                     </p>
                     <div class="row gy-4">
