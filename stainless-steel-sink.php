@@ -126,7 +126,7 @@ $currentPage = 'products';
                         <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s"
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
-                                <img style="height: 350px;" class="img-fluid" src="https://juakaliproducts.co.ke/wp-content/uploads/2019/08/stainless-steel-hopper-sink-sale-nairobi-kenya.jpg" alt="">
+                                <img style="height: 350px;" class="img-fluid" src="./img/sink.jpg" alt="">
                                 <a class="case-overlay text-decoration-none" href="">
                                     <h5 class="text-center mt-1 text-primary fw-bold">Stainless Steel Sluice Sink</h5>
                                 </a>

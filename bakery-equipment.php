@@ -80,8 +80,7 @@ $currentPage = 'products';
                             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                             <div class="case-item position-relative overflow-hidden rounded mb-2">
                                 <img style="height: 350px;" class="img-fluid"
-                                    src="https://juakaliproducts.co.ke/wp-content/uploads/2021/02/triple-deck-
-commercial-oven.jpeg"
+                                    src="./img/oven.jpeg"
                                     alt="">
                                 <a class="case-overlay text-decoration-none" href="">
                                     <h5 class="text-center mt-1 text-primary fw-bold">Triple Deck Oven
